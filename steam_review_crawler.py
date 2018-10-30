@@ -52,6 +52,16 @@ def get_review(html):
             percent.append(match_string('[0-9]+%', str(nonresponsive)))
             evaluation.append(tmp.text)
             result.append(tmp)
+        # have mixed review
+        tmp = result_set.find('span', {'class': 'game_review_summary mixed '})
+        if tmp != None:
+            kind = 'mixed'
+            responsive = result_set.find('span', {'class': 'responsive_hidden'}).text
+            people.append(match_string('[0-9,]+', str(responsive)))
+            nonresponsive = result_set.find('span', {'class': 'nonresponsive_hidden responsive_reviewdesc'}).text
+            percent.append(match_string('[0-9]+%', str(nonresponsive)))
+            evaluation.append(tmp.text)
+            result.append(tmp)
 
     if kind == 'no review':
         review['All Review'] = 'None'
