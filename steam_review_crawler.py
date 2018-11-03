@@ -2,8 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import csv
+import time
 
-filename = "app_list_20181029"
+filename = "applist_for_review_20181031"
+result_filename = 'applist_for_review_20181103'
 
 def match_string(pattern, string):
     return re.search(pattern, string).group(0)
@@ -31,7 +33,7 @@ def get_review(html):
             percent.append('None')
             evaluation.append('None')
             result.append(tmp)
-            break;
+            break
         # have positive review
         tmp = result_set.find('span', {'class': 'game_review_summary positive'})
         if tmp != None:
@@ -80,7 +82,7 @@ def get_title(html):
 
 with open(filename + '.csv', newline='') as csv_file:
     the_reader = csv.reader(csv_file)
-    with open(filename + '_result.csv', 'w') as csv_result:
+    with open(result_filename + '_result.csv', 'w') as csv_result:
         the_writer = csv.writer(csv_result)
         the_writer.writerow(["AppID", "App Name", "All Review", "All Percent", "All People"])
         
@@ -102,6 +104,7 @@ with open(filename + '.csv', newline='') as csv_file:
                 else:
                     print(cc, "+++++", title, "-----", name, "=====", appid)
             except:
+                the_writer.writerow(['not exist : ' + appid])
                 print(cc,"not exist", appid, ":", name)
-            
+            time.sleep(0.01)
             cc +=1

@@ -1,9 +1,8 @@
 import requests
-from bs4 import BeautifulSoup
 import json
 import csv
 
-filename = "app_list_20181029"
+filename = "applist_20181103"
 
 def get_api_response(web_url):
     reponse = requests.get(web_url)
