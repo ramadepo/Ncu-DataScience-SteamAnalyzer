@@ -5,7 +5,7 @@ import csv
 import time
 
 filename = "applist_for_review_20181031"
-result_filename = 'applist_for_review_20181103'
+result_filename = 'applist_for_review_20181104'
 
 def match_string(pattern, string):
     return re.search(pattern, string).group(0)
@@ -55,7 +55,7 @@ def get_review(html):
             evaluation.append(tmp.text)
             result.append(tmp)
         # have mixed review
-        tmp = result_set.find('span', {'class': 'game_review_summary mixed '})
+        tmp = result_set.find('span', {'class': 'game_review_summary mixed'})
         if tmp != None:
             kind = 'mixed'
             responsive = result_set.find('span', {'class': 'responsive_hidden'}).text
