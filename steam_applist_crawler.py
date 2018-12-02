@@ -2,7 +2,7 @@ import requests
 import json
 import csv
 
-filename = "applist_20181123"
+filename = "applist_20181201"
 
 def get_api_response(web_url):
     reponse = requests.get(web_url)
