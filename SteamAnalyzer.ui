@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1200</width>
+    <height>930</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1200</width>
+    <height>930</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1200</width>
+    <height>930</height>
+   </size>
+  </property>
+  <property name="font">
+   <font>
+    <pointsize>12</pointsize>
+    <weight>75</weight>
+    <bold>true</bold>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>Steam Analyzer</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTabWidget" name="tabWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>1201</width>
+      <height>931</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="currentIndex">
+     <number>0</number>
+    </property>
+    <widget class="QWidget" name="tab_sin_price">
+     <property name="enabled">
+      <bool>true</bool>
+     </property>
+     <attribute name="title">
+      <string>Predictions(Single)</string>
+     </attribute>
+     <widget class="QWidget" name="plot_sin_prediction" native="true">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>390</y>
+        <width>500</width>
+        <height>500</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(0, 0, 0);</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="button_sin_prediction">
+      <property name="geometry">
+       <rect>
+        <x>890</x>
+        <y>250</y>
+        <width>171</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Get Price !!!</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_action">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>20</y>
+        <width>81</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Action</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_adventure">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>60</y>
+        <width>131</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Adventure</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_animationandmodeling">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>100</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Animation, Modeling</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_indie">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>140</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Indie</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_earlyaccess">
+      <property name="geometry">
+       <rect>
+        <x>300</x>
+        <y>20</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Early Access</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_rpg">
+      <property name="geometry">
+       <rect>
+        <x>300</x>
+        <y>60</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>RPG</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_freetoplay">
+      <property name="geometry">
+       <rect>
+        <x>300</x>
+        <y>100</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Free to Play</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_massivelymultiplayer">
+      <property name="geometry">
+       <rect>
+        <x>300</x>
+        <y>140</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Massively Multiplayer</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_strategy">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>20</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Strategy</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_casual">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>60</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Casual</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_simulation">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>100</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Simulation</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_racing">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>140</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Racing</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_sports">
+      <property name="geometry">
+       <rect>
+        <x>820</x>
+        <y>20</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Sports</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_sin_utilities">
+      <property name="geometry">
+       <rect>
+        <x>820</x>
+        <y>60</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Utilities</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_mul_price">
+     <attribute name="title">
+      <string>Predictions(Multi)</string>
+     </attribute>
+     <widget class="QWidget" name="plot_mul_prediction" native="true">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>390</y>
+        <width>500</width>
+        <height>500</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(0, 0, 0);</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="button_mul_prediction">
+      <property name="geometry">
+       <rect>
+        <x>890</x>
+        <y>250</y>
+        <width>171</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Get Price !!!</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_racing">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>140</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Racing</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_sports">
+      <property name="geometry">
+       <rect>
+        <x>820</x>
+        <y>20</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Sports</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_simulation">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>100</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Simulation</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_freetoplay">
+      <property name="geometry">
+       <rect>
+        <x>300</x>
+        <y>100</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Free to Play</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_adventure">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>60</y>
+        <width>131</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Adventure</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_earlyaccess">
+      <property name="geometry">
+       <rect>
+        <x>300</x>
+        <y>20</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Early Access</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_indie">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>140</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Indie</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_animationandmodeling">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>100</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Animation, Modeling</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_action">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>20</y>
+        <width>81</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Action</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_utilities">
+      <property name="geometry">
+       <rect>
+        <x>820</x>
+        <y>60</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Utilities</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_casual">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>60</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Casual</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_rpg">
+      <property name="geometry">
+       <rect>
+        <x>300</x>
+        <y>60</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>RPG</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_massivelymultiplayer">
+      <property name="geometry">
+       <rect>
+        <x>300</x>
+        <y>140</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Massively Multiplayer</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="checkBox_mul_strategy">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>20</y>
+        <width>221</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Strategy</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_sin_top">
+     <attribute name="title">
+      <string>Top Types(Single)</string>
+     </attribute>
+    </widget>
+    <widget class="QWidget" name="tab_mul_top">
+     <attribute name="title">
+      <string>Top Types(Multi)</string>
+     </attribute>
+    </widget>
+    <widget class="QWidget" name="tab_help">
+     <attribute name="title">
+      <string>Intro</string>
+     </attribute>
+    </widget>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+ <slots>
+  <slot>start_calculate()</slot>
+  <slot>preview_picture()</slot>
+  <slot>suggestion_loop()</slot>
+ </slots>
+</ui>
