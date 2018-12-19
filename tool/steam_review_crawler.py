@@ -5,7 +5,7 @@ import csv
 import time
 
 filename = "applist_for_review_20181031"
-result_filename = 'applist_for_review_20181217'
+result_filename = 'applist_for_review_20181218'
 
 def match_string(pattern, string):
     return re.search(pattern, string).group(0)
@@ -104,7 +104,6 @@ with open(filename + '.csv', newline='') as csv_file:
                 else:
                     print(cc, "+++++", title, "-----", name, "=====", appid)
             except:
-                the_writer.writerow(['not exist : ' + appid])
                 print(cc,"not exist", appid, ":", name)
             time.sleep(0.01)
             cc +=1

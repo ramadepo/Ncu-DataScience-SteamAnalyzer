@@ -7,14 +7,16 @@ import time
 filename = 'applist_for_gametype'
 with open(filename + '.csv', newline='') as csv_file:
     the_reader = csv.reader(csv_file)
-    typelist = []
+    typelist = {}
 
     for row in the_reader:
         for the_type in row[1:]:
             if the_type not in typelist:
-                typelist.append(the_type)
+                typelist[the_type] = 1
+            else:
+                typelist[the_type] += 1
 with open('typelist.csv', 'w') as csv_file:
     the_writer = csv.writer(csv_file)
     for i in typelist:
-        the_writer.writerow([i])
+        the_writer.writerow([i, typelist[i]])
 print(len(typelist), typelist)
