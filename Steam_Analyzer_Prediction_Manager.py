@@ -4,11 +4,14 @@ from PyQt5.QtCore import pyqtSignal
 from PyQt5.QtWidgets import QCheckBox
 
 from Steam_Analyzer_Type_Manager import AppTypeManager
+from Steam_Analyzer_AppID_Manager import AppIDManager
 
 class PredictionManager():
-    def __init__(self, tab_widget):
+    def __init__(self, tab_widget, kind):
         self.tab_widget = tab_widget
-        self.app_type_manager = AppTypeManager()
+        self.kind = kind
+        self.app_type_manager = AppTypeManager(self.kind)
+        self.appid_manager = AppIDManager('20181215', 30)
         self.tags = []
         self.apps = []
 

@@ -5,8 +5,10 @@ from PyQt5.QtWidgets import QCheckBox
 import pandas as pd
 
 class AppTypeManager():
-    def __init__(self):
+    def __init__(self, kind):
+        self.kind = kind
         self.apptypes = pd.read_csv('data/applist_for_gametype.csv')
+        self.appsupport = pd.read_csv('data/applist_for_support.csv')
     
     def get_all_app_from_tags(self, tags):
         apps = []
@@ -17,6 +19,14 @@ class AppTypeManager():
                     qualification = False
                     break
             if qualification:
-                apps.append(app_types[0])
+                id = app_types[0]
+                support_list = self.appsupport[self.appsupport['AppID'] == id].values
+                if len(support_list) != 0:
+                    if self.kind == 'sin':
+                        if 'Online Multi-Player' not in support_list[0][2:]:
+                            apps.append(id)
+                    elif self.kind == 'mul':
+                        if 'Online Multi-Player' in support_list[0][2:]:
+                            apps.append(id)
         return apps
     
