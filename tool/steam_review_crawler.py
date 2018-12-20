@@ -5,7 +5,7 @@ import csv
 import time
 
 filename = "applist_for_review_20181031"
-result_filename = 'applist_for_review_20181219'
+result_filename = '20181219'
 
 def match_string(pattern, string):
     return re.search(pattern, string).group(0)
@@ -82,7 +82,7 @@ def get_title(html):
 
 with open(filename + '.csv', newline='') as csv_file:
     the_reader = csv.reader(csv_file)
-    with open(result_filename + '_result.csv', 'w') as csv_result:
+    with open(result_filename + '.csv', 'w') as csv_result:
         the_writer = csv.writer(csv_result)
         the_writer.writerow(["AppID", "App Name", "All Review", "All Percent", "All People"])
         
