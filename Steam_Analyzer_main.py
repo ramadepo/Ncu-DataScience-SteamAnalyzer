@@ -12,12 +12,14 @@ class Main(QMainWindow, Steam_Analyzer_window.Ui_MainWindow):
         # initialize all essential object in GUI
         super().__init__()
         self.setupUi(self)
+
         self.single_manager = PredictionManager(self.tab_sin_price, 'sin')
         self.multi_manager = PredictionManager(self.tab_mul_price, 'mul')
     
+    # button clicked event in single prediction tab
     def get_price_sin(self):
         self.single_manager.work()
-
+    # button clicked event in multiple prediction tab
     def get_price_mul(self):
         self.multi_manager.work()
 

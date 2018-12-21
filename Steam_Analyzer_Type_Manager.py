@@ -6,12 +6,15 @@ import pandas as pd
 
 class AppTypeManager():
     def __init__(self, kind):
+        # kind is sin or mul
         self.kind = kind
+        # load file
         self.apptypes = pd.read_csv('data/applist_for_gametype.csv')
         self.appsupport = pd.read_csv('data/applist_for_support.csv')
     
     def get_all_app_from_tags(self, tags):
         apps = []
+        # check the qualification of types on UI
         for app_types in self.apptypes.values:
             qualification = True
             for tag in tags:
@@ -20,8 +23,10 @@ class AppTypeManager():
                     break
             if qualification:
                 id = app_types[0]
+                # check the data is exist
                 support_list = self.appsupport[self.appsupport['AppID'] == id].values
                 if len(support_list) != 0:
+                    # check now is single or multiple tab and store corresponding data
                     if self.kind == 'sin':
                         if 'Online Multi-Player' not in support_list[0][2:]:
                             apps.append(id)
