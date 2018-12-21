@@ -2,9 +2,13 @@ from PyQt5.QtWidgets import QApplication
 from PyQt5.QtWidgets import QMainWindow
 from PyQt5.QtCore import pyqtSignal
 from PyQt5.QtWidgets import QCheckBox
+from PyQt5.QtWidgets import QWidget
+from PyQt5.QtWidgets import QTextBrowser
 
 from Steam_Analyzer_Type_Manager import AppTypeManager
 from Steam_Analyzer_AppID_Manager import AppIDManager
+from Steam_Analyzer_Calculator import Calculator
+from Steam_Analyzer_Plot_Manager import PlotManager
 
 class PredictionManager():
     def __init__(self, tab_widget, kind):
@@ -15,6 +19,14 @@ class PredictionManager():
         self.app_type_manager = AppTypeManager(self.kind)
         # manager for appid
         self.appid_manager = AppIDManager('20181215', 30)
+        # manager for plotting
+        self.plot_manager = PlotManager(self.tab_widget.findChild(QWidget, 'plot_' + self.kind + '_prediction'), 6, 6, 100)
+        # prediction calculator
+        self.calculator = Calculator(self.plot_manager)
+        # log window object
+        self.log_window = self.tab_widget.findChild(QTextBrowser, 'textBrowser_' + self.kind + '_log')
+        # set slot and signal pair
+        self.app_type_manager.log.connect(self.add_log)
 
         self.tags = []
         self.apps = []
@@ -39,3 +51,7 @@ class PredictionManager():
                 if child.isChecked():
                     tags.append(child.text())
         return tags
+
+    # show log in log window
+    def add_log(self, log):
+        self.log_window.append(log)

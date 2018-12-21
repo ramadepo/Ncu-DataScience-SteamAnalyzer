@@ -1,11 +1,14 @@
 from PyQt5.QtWidgets import QApplication
 from PyQt5.QtWidgets import QMainWindow
-from PyQt5.QtCore import pyqtSignal
+from PyQt5.QtCore import pyqtSignal, QObject
 from PyQt5.QtWidgets import QCheckBox
 import pandas as pd
 
-class AppTypeManager():
+class AppTypeManager(QObject):
+    # signal for log
+    log = pyqtSignal(str)
     def __init__(self, kind):
+        QObject.__init__(self)
         # kind is sin or mul
         self.kind = kind
         # load file
@@ -17,6 +20,9 @@ class AppTypeManager():
         # check the qualification of types on UI
         for app_types in self.apptypes.values:
             qualification = True
+            if len(tags) == 0:
+                self.log.emit('Please choose the type of game')
+                break
             for tag in tags:
                 if tag not in app_types:
                     qualification = False
