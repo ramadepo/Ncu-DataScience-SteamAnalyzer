@@ -9,7 +9,7 @@ from Steam_Analyzer_Type_Manager import AppTypeManager
 from Steam_Analyzer_AppID_Manager import AppIDManager
 from Steam_Analyzer_Calculator import Calculator
 from Steam_Analyzer_Plot_Manager import PlotManager
-from Steam_Analyzer_Thread import PlotThread, PredictThread
+from Steam_Analyzer_Thread import PlotThread, DataFilteringThread
 
 class PredictionManager():
     def __init__(self, tab_widget, kind):
@@ -45,10 +45,10 @@ class PredictionManager():
     def work(self):
         self.pre_work()
         self.plot_thread = PlotThread(self.plot_manager, self.tags)
-        self.predict_thread = PredictThread(self.plot_manager, self.appid_manager, self.apps, self.duration)
-        self.predict_thread.done.connect(self.done)
+        self.data_filtering_thread = DataFilteringThread(self.plot_manager, self.appid_manager, self.apps, self.duration)
+        self.data_filtering_thread.done.connect(self.done)
         self.plot_thread.start()
-        self.predict_thread.start()
+        self.data_filtering_thread.start()
 
         
     # get tags from UI
@@ -67,6 +67,6 @@ class PredictionManager():
     # receive the data filtering complete signal and turn off the thread
     def done(self):
         self.plot_thread.stop()
-        self.predict_thread.stop()
+        self.data_filtering_thread.stop()
         self.add_log('Data filtering complete.')
         self.add_log('Start to execute linear regression model.')

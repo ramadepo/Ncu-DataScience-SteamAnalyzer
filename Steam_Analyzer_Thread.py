@@ -19,7 +19,7 @@ class PlotThread(QThread):
         self.active = False
         self.wait()
 
-class PredictThread(QThread):
+class DataFilteringThread(QThread):
     done = pyqtSignal()
     def __init__(self, plot_manager, appid_manager, apps, duration):
         QThread.__init__(self)
