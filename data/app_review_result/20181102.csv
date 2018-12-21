@@ -14,7 +14,7 @@ AppID,App Name,All Review,All Percent,All People
 906590,Dabwoman: When The Dab Isn’t sexist,Positive,83%,24
 905730,Soul at Stake - Special Gestures,Positive,92%,14
 905940,女神驾到,Mostly Negative,26%,530
-905450,NASCAR Heat 3,None,None,None
+905450,NASCAR Heat 3,0,0,0
 904890,Neverliria,Positive,91%,12
 904940,Les 4 Alice: Lorange Journey,Positive,100%,10
 904960,Cine Tracer,Positive,81%,11
@@ -341,7 +341,7 @@ AppID,App Name,All Review,All Percent,All People
 920520,Sexy Jigsaw,Positive,81%,27
 920550,Puzzle Master,Positive,84%,39
 920680,Fate Hunters,Very Positive,81%,55
-211521,Max Payne 3: Hostage Negotiation Pack,None,None,None
+211521,Max Payne 3: Hostage Negotiation Pack,0,0,0
 211600,Thief Gold,Very Positive,92%,"1,230"
 211720,The Elder Scrolls V: Skyrim - Dawnguard,Very Positive,89%,"1,128"
 211740,Thief 2,Very Positive,93%,740
@@ -648,7 +648,7 @@ AppID,App Name,All Review,All Percent,All People
 113200,The Binding of Isaac,Overwhelmingly Positive,95%,"32,768"
 113204,Binding of Isaac: Wrath of the Lamb,Overwhelmingly Positive,96%,624
 113405,APB Reloaded: Urban Survival Pack,Positive,80%,25
-113420,Fallen Earth,None,None,None
+113420,Fallen Earth,0,0,0
 115110,Stacking,Very Positive,91%,692
 115120,Iron Brigade,Very Positive,83%,489
 115200,Cossacks II: Napoleonic Wars,Mostly Negative,38%,259
@@ -685,7 +685,7 @@ AppID,App Name,All Review,All Percent,All People
 108200,Ticket to Ride,Very Positive,85%,816
 108230,Ticket to Ride - Europe,Positive,90%,10
 108500,Vessel,Very Positive,87%,264
-108700,Death Rally,None,None,None
+108700,Death Rally,0,0,0
 108726,Alan Wake Developer Commentary,Very Positive,92%,111
 108800,Crysis 2 Maximum Edition,Very Positive,82%,"4,689"
 109200,Legend of Fae,Very Positive,80%,77
@@ -881,7 +881,7 @@ AppID,App Name,All Review,All Percent,All People
 82010,F1 2012 Trailer PEGI,Very Positive,87%,829
 82013,Worms Revolution Trailer 3,Very Positive,83%,"2,816"
 81913,Tales From Space Mutant Blobs Attack Teaser,Very Positive,92%,267
-81914,DeathRally Launch Trailer,None,None,None
+81914,DeathRally Launch Trailer,0,0,0
 81915,Deponia Trailer,Very Positive,89%,"5,771"
 81916,Deponia Trailer DE,Very Positive,89%,"5,771"
 81921,Galaxy on Fire 2 HD Trailer,Mostly Positive,71%,705
@@ -1481,7 +1481,7 @@ AppID,App Name,All Review,All Percent,All People
 65800,Dungeon Defenders,Very Positive,92%,"6,796"
 65900,Sid Meier's Civilization V - Demo,Overwhelmingly Positive,96%,"79,332"
 65920,Borderlands DLC: Claptrap’s New Robot Revolution,Very Positive,90%,197
-65930,The Bureau: XCOM Declassified,None,None,None
+65930,The Bureau: XCOM Declassified,0,0,0
 66000,The Bureau: XCOM Declassified - Code Breakers,Mostly Negative,35%,51
 67000,The Polynomial,Mostly Positive,76%,394
 67010,The Polynomial - Demo,Mostly Positive,76%,394
@@ -1595,7 +1595,7 @@ AppID,App Name,All Review,All Percent,All People
 50980,Mystery Case Files: PrimeSuspects ,Mostly Positive,70%,10
 50990,Mystery Case Files: Ravenhearst ,Positive,100%,18
 51000,Mystery Case Files: Return to Ravenhearst ,Mostly Positive,70%,20
-50145,Mafia II - Jimmy's Vendetta DLC,None,None,None
+50145,Mafia II - Jimmy's Vendetta DLC,0,0,0
 50147,Mafia II - Joe's Adventures DLC,Mostly Negative,38%,305
 50280,Mafia II - Demo,Very Positive,93%,"15,513"
 49470,Magic: The Gathering — Duels of the Planeswalkers 2012,Very Positive,88%,680
@@ -1631,7 +1631,7 @@ AppID,App Name,All Review,All Percent,All People
 47894,The Sims(TM) 3 Late Night,Very Positive,86%,68
 47896,The Sims(TM) 3 Fast Lane Stuff,Mostly Positive,78%,14
 47898,The Sims(TM) 3 Generations,Very Positive,81%,55
-47920,Shift 2 Unleashed,None,None,None
+47920,Shift 2 Unleashed,0,0,0
 47930,The Sims(TM) 3 Pets,Very Positive,84%,228
 47931,The Sims(TM) 3 Master Suite Stuff,Mostly Positive,72%,11
 47936,The Sims 3 - Showtime Katy Perry Collectors Edition,Very Positive,81%,"11,572"
@@ -1869,7 +1869,7 @@ AppID,App Name,All Review,All Percent,All People
 34800,Chronicles of Mystery: The Scorpio Ritual,Mostly Positive,74%,35
 34810,Project Freedom,Mostly Positive,78%,82
 34820,Combat Wings: Battle of Britain,Very Positive,80%,273
-34830,Sniper: Ghost Warrior,None,None,None
+34830,Sniper: Ghost Warrior,0,0,0
 34841,Sniper: Ghost Warrior - Map Pack,Positive,88%,18
 34842,Sniper: Ghost Warrior - Second Strike Pack,Positive,87%,31
 34900,Bad Rats,Mostly Positive,75%,"6,384"
@@ -2408,8 +2408,8 @@ AppID,App Name,All Review,All Percent,All People
 7940,Call of Duty 4: Modern Warfare,Very Positive,90%,"7,060"
 8040,Championship Manager 2007,Positive,100%,18
 8060,Championship Manager 2008,Positive,84%,39
-8090,Conflict: Denied Ops Demo,None,None,None
-8100,Conflict: Denied Ops,None,None,None
+8090,Conflict: Denied Ops Demo,0,0,0
+8100,Conflict: Denied Ops,0,0,0
 8200,Sam & Max 101: Culture Shock,Very Positive,87%,260
 8210,Sam & Max 102: Situation: Comedy,Positive,97%,35
 8220,"Sam & Max 103: The Mole, the Mob and the Meatball",Positive,93%,30
@@ -2522,15 +2522,15 @@ AppID,App Name,All Review,All Percent,All People
 5793,Alien Breed Impact Co-op Trailer,Mostly Positive,77%,498
 5794,Arma 2 - Operation Arrowhead Trailer 2,Very Positive,91%,"13,839"
 5796,Sacrobar Trailer,Mostly Negative,35%,17
-5797,Sniper Ghost Warrior Basic Tactics,None,None,None
+5797,Sniper Ghost Warrior Basic Tactics,0,0,0
 5798,Puzzle Agent Trailer,Very Positive,87%,876
 5696,Iron Grip Warlord Trailer,Very Positive,87%,205
 5698,Max and the Magic Marker,Positive,84%,26
 5706,Guns Of Icarus 1,Mostly Negative,37%,211
 5713,Super Meat Boy Trailer 2,Very Positive,94%,"17,361"
-5714,Sniper Ghost Warrior Trailer 3,None,None,None
-5716,Sniper Ghost Warrior Trailer 1.1,None,None,None
-5717,Sniper Ghost Warrior Trailer 2.1,None,None,None
+5714,Sniper Ghost Warrior Trailer 3,0,0,0
+5716,Sniper Ghost Warrior Trailer 1.1,0,0,0
+5717,Sniper Ghost Warrior Trailer 2.1,0,0,0
 5718,Lara Croft Announce Trailer 1,Very Positive,92%,"1,846"
 5721,Napoleon: Total War - Peninsular Campaign,Very Positive,88%,"4,635"
 5722,Alien Swarm Launch Video,Very Positive,94%,"18,130"
@@ -3111,7 +3111,7 @@ AppID,App Name,All Review,All Percent,All People
 342380,Sakura Angels,Very Positive,85%,"1,454"
 342480,Gunscape,Very Positive,83%,12
 341680,stratO,Positive,90%,31
-341700,Cahors Sunset,None,None,None
+341700,Cahors Sunset,0,0,0
 341720,Among Ripples,Mostly Positive,70%,"1,286"
 341730,Dustoff Heli Rescue,Very Positive,86%,265
 341760,Flem,Positive,90%,10
@@ -3238,7 +3238,7 @@ AppID,App Name,All Review,All Percent,All People
 338160,Europa Universalis IV: El Dorado,Mostly Positive,74%,258
 338162,"Europa Universalis IV: Guns, Drums and Steel Volume 2",Positive,81%,37
 338170,Ratz Instagib 2.0,Very Positive,86%,"1,567"
-338180,Batla,None,None,None
+338180,Batla,0,0,0
 338190,Just Get Through,Very Positive,88%,143
 338250,Sigmund Minisode 1 [Holiday Special 2013],Very Positive,94%,147
 337320,Paint the Town Red,Very Positive,90%,"4,581"
@@ -3500,7 +3500,7 @@ AppID,App Name,All Review,All Percent,All People
 327880,Sublevel Zero Redux,Very Positive,87%,375
 327890,I am Bread,Mostly Positive,77%,"4,228"
 327900,LogicBots Demo,Very Positive,81%,112
-327920,BloodNet,None,None,None
+327920,BloodNet,0,0,0
 327930,Darklands,Very Positive,92%,110
 327950,Sword of the Samurai,Very Positive,94%,93
 327960,Journey of the King,Mostly Negative,23%,13
@@ -3685,7 +3685,7 @@ AppID,App Name,All Review,All Percent,All People
 321190,Cho Dengeki Stryker,Very Positive,90%,73
 321270,UNLOVED,Very Positive,80%,516
 321290,Dandelion - Wishes brought to you -,Very Positive,87%,416
-321300,Mount & Blade: Warband - Viking Conquest Reforged Edition,None,None,None
+321300,Mount & Blade: Warband - Viking Conquest Reforged Edition,0,0,0
 321360,Primal Carnage: Extinction,Mostly Positive,73%,"3,128"
 320610,Questerium: Sinister Trinity HD,Mostly Positive,75%,102
 320630,Season Match,Mostly Positive,76%,123
@@ -3966,7 +3966,7 @@ AppID,App Name,All Review,All Percent,All People
 311164,Warface Sniper Starter Pack,Mostly Positive,71%,77
 311190,Super Panda Adventures,Overwhelmingly Positive,96%,539
 311240,Zero Escape: Zero Time Dilemma,Very Positive,91%,"1,332"
-311290,SpellForce 3,None,None,None
+311290,SpellForce 3,0,0,0
 311340,METAL GEAR SOLID V: GROUND ZEROES,Very Positive,82%,"7,418"
 311380,Total War: ROME II - Augustus Campaign Pack,Positive,86%,15
 311400,OCEAN CITY RACING: Redux,Mostly Negative,33%,457
@@ -4004,7 +4004,7 @@ AppID,App Name,All Review,All Percent,All People
 308580,Orborun,Positive,86%,15
 307800,Hero Siege - The Karp of Doom,Mostly Positive,73%,57
 307860,Meridian4 Daily Deal,Very Positive,81%,"1,098"
-307880,Savage Lands,None,None,None
+307880,Savage Lands,0,0,0
 307900,Wildlife Park 2 - Marine World,Mostly Positive,72%,29
 307920,Wildlife Park 2 - Farm World,Mostly Positive,75%,20
 307940,Radiation Island,Mostly Positive,74%,316
@@ -4378,7 +4378,7 @@ AppID,App Name,All Review,All Percent,All People
 292880,Robin's Quest,Very Positive,83%,62
 292910,Deponia: The Complete Journey,Very Positive,88%,"1,750"
 292930,Black Mirror I,Very Positive,81%,438
-292982,Crusader Kings II: Charlemagne,None,None,None
+292982,Crusader Kings II: Charlemagne,0,0,0
 292983,Crusader Kings II: Early Western Clothing Pack,Mostly Negative,27%,18
 292985,Crusader Kings II: Dynasty Shields Charlemagne,Mostly Negative,36%,19
 292030,The Witcher 3: Wild Hunt,Overwhelmingly Positive,97%,"152,105"
@@ -4631,7 +4631,7 @@ AppID,App Name,All Review,All Percent,All People
 280220,Creeper World 3: Arc Eternal,Overwhelmingly Positive,96%,"1,814"
 280380,Uprising44: The Silent Shadows,Mostly Negative,20%,45
 280520,Crea,Mostly Positive,77%,683
-280540,GhostControl Inc.,None,None,None
+280540,GhostControl Inc.,0,0,0
 280560,Danmaku Unlimited 2,Very Positive,94%,272
 280600,BloodLust Shadowhunter,Mostly Positive,79%,258
 280640,Dark Shadows - Army of Evil,Mostly Negative,22%,40
@@ -4803,7 +4803,7 @@ AppID,App Name,All Review,All Percent,All People
 270950,Ski Region Simulator,Mostly Positive,73%,233
 271030,Sonic and All-Stars Racing Transformed: Ryo Hazuki,Positive,93%,43
 271240,Offworld Trading Company,Mostly Positive,73%,"2,456"
-271260,Star Control: Origins,None,None,None
+271260,Star Control: Origins,0,0,0
 271360,Industry Giant 2,Very Positive,80%,351
 270310,Dominique Pamplemousse,Very Positive,85%,149
 270330,Ku: Shroud of the Morrigan,Mostly Negative,32%,31
@@ -5553,7 +5553,7 @@ AppID,App Name,All Review,All Percent,All People
 235210,Strider,Very Positive,86%,"1,345"
 235250,Super Sanctum TD,Very Positive,87%,881
 235320,Original War,Very Positive,92%,785
-235340,Prime World,None,None,None
+235340,Prime World,0,0,0
 235360,Prime World: Defenders,Mostly Positive,79%,586
 235380,Blitzkrieg 3,Mostly Positive,71%,76
 234160,Strike Suit Infinity,Very Positive,84%,444
@@ -6068,7 +6068,7 @@ AppID,App Name,All Review,All Percent,All People
 778860,Animals Memory: Insect,Positive,81%,11
 778930,Property,Mostly Positive,78%,41
 779080,Star Fleet Armada: Rogue Adventures Demo,Positive,94%,17
-779100,Daemonical,None,None,None
+779100,Daemonical,0,0,0
 778330,Squirm,Very Positive,96%,97
 778340,Animals Memory: Dogs,Mostly Positive,72%,11
 778490,Contagion VR: Outbreak Demo,Mostly Positive,75%,284
@@ -6092,7 +6092,7 @@ AppID,App Name,All Review,All Percent,All People
 777770,Warparty,Very Positive,87%,54
 777790,Final Directive,Very Positive,92%,66
 777050,TOXIC PLUMBING,Positive,87%,24
-777160,Forgotten Places: Regained Castle,None,None,None
+777160,Forgotten Places: Regained Castle,0,0,0
 777200,KOEWOTAYORINI SP / 声之寄托SP,Very Positive,97%,92
 777220,The Inquisitor,Positive,96%,32
 777240,Tren0,Very Positive,86%,126
@@ -6206,7 +6206,7 @@ AppID,App Name,All Review,All Percent,All People
 768830,Planet Coaster - Adventure Pack,Very Positive,88%,87
 768970,ModLab,Positive,100%,16
 768240,"Warstone OST, Comics and Artbook",Positive,100%,19
-768370,New Dawn,None,None,None
+768370,New Dawn,0,0,0
 768530,Kingdom Come: Deliverance - Treasures of the Past,Mostly Positive,72%,50
 768540,Dinosaurs Prehistoric Survivors,Mostly Positive,77%,18
 767650,Starward Rogue: AuGMENTED,Positive,100%,11
@@ -6577,7 +6577,7 @@ AppID,App Name,All Review,All Percent,All People
 812800,Viki Spotter: School,Positive,100%,23
 812410,Dimension of Monster Girls,Positive,93%,46
 812450,The m0rg VS keys,Mostly Positive,72%,11
-812460,Air Raid Over Britain,None,None,None
+812460,Air Raid Over Britain,0,0,0
 812550,The King's Bird,Very Positive,94%,53
 812560,CROSS†CHANNEL: Steam Edition,Positive,83%,37
 811840,DMCHDC Wallpaper,Very Positive,92%,51
@@ -6863,7 +6863,7 @@ AppID,App Name,All Review,All Percent,All People
 788420,Potion Explosion,Positive,100%,10
 787570,The Orion Suns,Positive,92%,13
 787710,Comrades and Barons: Solitaire of Bloody 1919,Positive,93%,15
-787740,Construction Simulator 2 US - Pocket Edition,None,None,None
+787740,Construction Simulator 2 US - Pocket Edition,0,0,0
 787840,Blacksmith,Positive,81%,11
 787910,Ragnir Maypul,Positive,100%,13
 787970,miraclr - Divine Dating Sim,Positive,81%,16
@@ -7046,7 +7046,7 @@ AppID,App Name,All Review,All Percent,All People
 720040,Valknut,Negative,13%,23
 720150,Shikhondo(食魂徒) - Soul Eater,Very Positive,84%,108
 720200,Vinewing,Positive,90%,10
-720240,Legend of Fainn Dynasty ～Battles of Beautiful Warlords～,None,None,None
+720240,Legend of Fainn Dynasty ～Battles of Beautiful Warlords～,0,0,0
 720280,Fox Hime,Very Positive,86%,"2,463"
 720320,ShineG Has Nightmares,Positive,86%,29
 720530,Killer Instinct - The Complete Soundtrack,Positive,92%,14
@@ -7076,7 +7076,7 @@ AppID,App Name,All Review,All Percent,All People
 718330,Cubic,Very Positive,84%,121
 718500,Derpy Dinos,Mostly Positive,78%,46
 717790,Hold Your Own,Mostly Positive,70%,180
-717820,Boom Island,None,None,None
+717820,Boom Island,0,0,0
 717850,Sable's Grimoire,Positive,94%,38
 717950,Rainbow Snake,Very Positive,81%,107
 717980,伏雨录,Positive,100%,27
@@ -7136,7 +7136,7 @@ AppID,App Name,All Review,All Percent,All People
 715010,Diamo XL,Very Positive,97%,251
 715050,The Islander,Mostly Positive,71%,120
 715070,Gold Rush: The Game - Collector's Edition Upgrade,Positive,87%,40
-715130,Hunting Simulator Demo,None,None,None
+715130,Hunting Simulator Demo,0,0,0
 715190,Cities: Skylines - Content Creator Pack: European Suburbia,Very Positive,90%,64
 715191,Cities: Skylines - Parklife,Very Positive,84%,240
 714510,Chaos Souls,Mostly Positive,73%,15
@@ -7250,7 +7250,7 @@ AppID,App Name,All Review,All Percent,All People
 707400,Attack Of Insects,Positive,90%,20
 707580,AFFECTED: The Manor,Mostly Positive,79%,63
 707590,Defense Clicker,Mostly Positive,78%,57
-706990,BLOCKPOST,None,None,None
+706990,BLOCKPOST,0,0,0
 707140,Chess,Negative,8%,12
 706560,Jimmy and the Pulsating Mass,Very Positive,94%,78
 706620,THE KING OF FIGHTERS: DESTINY: WOMEN FIGHTERS,Very Positive,92%,267
@@ -7296,7 +7296,7 @@ AppID,App Name,All Review,All Percent,All People
 703950,Just Fishing,Mostly Positive,73%,523
 703980,Star Wars: Imperial Assault - Legends of the Alliance,Mostly Positive,75%,58
 704010,LongStory,Mostly Positive,75%,28
-704030,Cattle and Crops,None,None,None
+704030,Cattle and Crops,0,0,0
 704180,100% Orange Juice - Witch Pack,Positive,88%,25
 704200,The Chronicles of Nyanya,Positive,96%,29
 703480,Virtual Space,Mostly Positive,72%,22
@@ -7401,7 +7401,7 @@ AppID,App Name,All Review,All Percent,All People
 697800,One Night You're Crazy,Positive,87%,16
 697860,Cathodemer,Positive,83%,18
 697170,All-Star Fruit Racing Demo,Very Positive,80%,57
-697260,Dogcoin,None,None,None
+697260,Dogcoin,0,0,0
 696560,Bouncing Duck Simulator,Positive,82%,23
 696590,XXZ: XXL,Very Positive,80%,165
 696610,Lethal Laser Demo,Positive,100%,10
@@ -7838,7 +7838,7 @@ AppID,App Name,All Review,All Percent,All People
 671620,Beast Battle Simulator,Very Positive,84%,334
 671650,Mad Age & This Guy,Positive,85%,20
 670750,0°N 0°W,Positive,92%,42
-670820,Civitatem,None,None,None
+670820,Civitatem,0,0,0
 670860,The Path of Greatest Resistance Demo,Positive,83%,48
 671090,Oik Memory,Very Positive,88%,81
 671160,Slime Rancher: Original Soundtrack,Positive,96%,27
@@ -7944,7 +7944,7 @@ AppID,App Name,All Review,All Percent,All People
 663300,Enlightenment,Mostly Positive,71%,307
 663370,The Zwuggels - Beach Holidays,Positive,96%,26
 663380,Tales from Candlekeep: Tomb of Annihilation,Mostly Positive,77%,"1,209"
-663390,Rento Fortune - Multiplayer Board Game,None,None,None
+663390,Rento Fortune - Multiplayer Board Game,0,0,0
 663590,Foxfolk,Positive,87%,16
 662840,Abo Khashem,Positive,80%,21
 662910,Cash Crop,Mostly Positive,78%,28
@@ -8006,7 +8006,7 @@ AppID,App Name,All Review,All Percent,All People
 659110,Vicious Attack Llama Apocalypse,Positive,80%,31
 659120,Survive,Mostly Negative,29%,51
 659190,"Sorry, James",Mostly Positive,78%,344
-658470,Mini Battlegrounds,None,None,None
+658470,Mini Battlegrounds,0,0,0
 658510,Dark Eden Origin,Mostly Negative,34%,61
 658530,Grisaia Phantom Trigger Vol.3,Positive,93%,32
 658550,Zup! Zero 2,Very Positive,94%,172
@@ -8228,7 +8228,7 @@ AppID,App Name,All Review,All Percent,All People
 748600,Meme Dragons,Positive,87%,16
 748890,Choice of Rebels: Uprising,Very Positive,95%,71
 748900,Choice of Rebels: Uprising Demo,Very Positive,95%,71
-748150,The Love Boat,None,None,None
+748150,The Love Boat,0,0,0
 748360,MY HERO ONE'S JUSTICE,Very Positive,80%,324
 748370,STAND OUT,Mostly Positive,77%,718
 748420,Beat the Blitz,Positive,84%,13
@@ -8353,7 +8353,7 @@ AppID,App Name,All Review,All Percent,All People
 740210,"Sorry, James Demo",Mostly Positive,78%,344
 740230,Just Ski,Positive,84%,38
 740250,Neos VR,Positive,96%,27
-740260,Crimson Imprint plus -Nonexistent Christmas-,Very Positive,91%,"1,245"
+740260,Crimson Imprint plus -0xistent Christmas-,Very Positive,91%,"1,245"
 740290,Irony Of Nightmare,Very Positive,84%,161
 739690,Now Man Flies,Positive,83%,12
 739260,Golden Hornet,Very Positive,94%,123
@@ -8389,7 +8389,7 @@ AppID,App Name,All Review,All Percent,All People
 735360,Driver Booster 5 for Steam,Mostly Positive,75%,432
 735370,Driver Booster 5 Upgrade to Pro (Lifetime),Positive,85%,21
 735420,Total War: WARHAMMER II - Tretch Craventail,Mostly Positive,78%,95
-735450,Ninja Way,None,None,None
+735450,Ninja Way,0,0,0
 735500,Creepy Road,Mostly Positive,74%,47
 735510,Next Day: Survival OST,Positive,93%,29
 735590,Grand Pskov Story,Mostly Positive,76%,30
@@ -8519,7 +8519,7 @@ AppID,App Name,All Review,All Percent,All People
 645930,Zero Killed,Negative,14%,14
 645970,Rock of Ages 2 - Classic Pack,Positive,81%,11
 645290,Mechanism,Mostly Positive,75%,56
-645300,The Fall of Lazarus Demo: The First Passenger,None,None,None
+645300,The Fall of Lazarus Demo: The First Passenger,0,0,0
 645380,Heroes of Umbra,Mostly Positive,75%,20
 645400,Civilization VI - Nubia Civilization & Scenario Pack,Mostly Negative,37%,233
 645450,Gravity Quest,Positive,83%,24
@@ -8817,7 +8817,7 @@ AppID,App Name,All Review,All Percent,All People
 611060,ECHOPLEX,Mostly Positive,75%,32
 611090,Boofle's Home,Mostly Positive,75%,16
 611160,Karnage Chronicles,Very Positive,91%,185
-611180,Super Street: The Game,None,None,None
+611180,Super Street: The Game,0,0,0
 611210,Aerofly FS 2 - USA Utah,Positive,92%,14
 611320,Think To Die 3,Positive,90%,33
 611370,Tyranny - Portrait Pack,Positive,93%,15
@@ -9056,7 +9056,7 @@ AppID,App Name,All Review,All Percent,All People
 632070,The Fidelio Incident,Very Positive,80%,421
 632170,Spartan Fist,Mostly Positive,77%,22
 632290,The Grand Ball,Mostly Positive,70%,10
-632300,Hobo: Tough Life,None,None,None
+632300,Hobo: Tough Life,0,0,0
 632350,Cyberdimension Neptunia: 4 Goddesses Online,Very Positive,87%,"2,482"
 632510,Blockle,Mostly Positive,79%,48
 631770,Pixplode,Positive,100%,14
@@ -9121,7 +9121,7 @@ AppID,App Name,All Review,All Percent,All People
 628920,Tomboys Need Love Too!,Very Positive,89%,77
 628060,Romance of the Three Kingdoms X with Power Up Kit,Very Positive,80%,110
 628070,Romance of the Three Kingdoms 11 with Power Up Kit,Very Positive,90%,355
-628080,Romance of the Three Kingdoms 12 with Power Up Kit,None,None,None
+628080,Romance of the Three Kingdoms 12 with Power Up Kit,0,0,0
 628150,Sangokushi Eiketsuden,Positive,81%,16
 628170,Uncharted Waters II,Mostly Positive,77%,40
 628220,3DF Zephyr Free Steam Edition,Positive,92%,25
@@ -9263,7 +9263,7 @@ AppID,App Name,All Review,All Percent,All People
 621927,Train Simulator: CRH2A EMU Add-On,Mostly Positive,75%,20
 621930,Attack of the Earthlings,Very Positive,84%,98
 621970,Trailblazers,Mostly Positive,72%,33
-622010,The Fall of Lazarus,None,None,None
+622010,The Fall of Lazarus,0,0,0
 622020,ATV Drift & Tricks,Mostly Positive,78%,19
 622060,XOXO Droplets,Mostly Positive,77%,109
 621530,One Star,Mostly Negative,25%,24
@@ -9351,7 +9351,7 @@ AppID,App Name,All Review,All Percent,All People
 882960,Visitor 来访者,Very Positive,84%,496
 882200,Reveal,Positive,80%,10
 882220,Mecha-Tokyo Rush,Very Positive,81%,60
-882280,Tinkr Garage,None,None,None
+882280,Tinkr Garage,0,0,0
 882310,Accurate Segmentation,Positive,95%,20
 881680,Mouse Enhancer Pro,Mostly Positive,79%,29
 881690,The Slater,Positive,84%,44
@@ -9547,7 +9547,7 @@ AppID,App Name,All Review,All Percent,All People
 853240,The Light Keeps Us Safe,Positive,82%,28
 853250,신기록 : A Compendium of Ghosts,Positive,91%,24
 852720,Voxel Tanks,Mostly Positive,78%,23
-852770,THE DUST,None,None,None
+852770,THE DUST,0,0,0
 852790,The Adventure of Magical Girl,Positive,89%,29
 852110,RetroMaze,Very Positive,97%,76
 852160,Jack the Barbarian,Mostly Positive,71%,14
@@ -9583,7 +9583,7 @@ AppID,App Name,All Review,All Percent,All People
 868340,Groove Studio,Positive,80%,15
 868360,Project Hospital,Very Positive,89%,288
 868410,DAISENRYAKU PERFECT 4.0/大戦略パーフェクト4.0,Mostly Negative,26%,23
-867730,Pixel Traffic: Highway Racing,None,None,None
+867730,Pixel Traffic: Highway Racing,0,0,0
 868070,Through The Tomb,Positive,90%,10
 868090,Battle Summoners VR Basic,Positive,83%,12
 867240,Naval Action - Admiralty Connection,Positive,100%,10
@@ -9621,7 +9621,7 @@ AppID,App Name,All Review,All Percent,All People
 863900,Villager's Biography,Very Positive,81%,53
 863910,SRPG Studio Demo,Positive,85%,27
 864100,Sagebrush,Positive,94%,19
-864150,Feelin,None,None,None
+864150,Feelin,0,0,0
 863490,Bighead Runner,Positive,81%,27
 863560,Slime CCG,Mostly Negative,36%,60
 863570,Super Seducer 2 : Advanced Seduction Tactics,Very Positive,81%,194
@@ -9782,7 +9782,7 @@ AppID,App Name,All Review,All Percent,All People
 826100,Find someone else,Very Positive,93%,75
 851180,Blood Harvest 3,Mostly Positive,73%,15
 850690,Crying is not Enough,Mostly Negative,29%,67
-850780,Battle Royale Bootcamp,None,None,None
+850780,Battle Royale Bootcamp,0,0,0
 850820,祛魅·教化（祛魅1）,Mostly Positive,72%,18
 850920,Hypersonic Speed Girl / 超速少女,Positive,100%,10
 850990,Shooty Skies OST,Positive,95%,22
@@ -10280,7 +10280,7 @@ AppID,App Name,All Review,All Percent,All People
 462990,Tomoyo After ~It's a Wonderful Life~ English Edition,Very Positive,94%,195
 463000,Hero Battle,Mostly Negative,37%,24
 462200,Dungetris,Mostly Positive,76%,183
-462220,Mahjong Deluxe 3,None,None,None
+462220,Mahjong Deluxe 3,0,0,0
 462240,Post Human W.A.R,Positive,86%,36
 462260,Battlefleet Gothic: Armada - Space Marines,Very Positive,80%,67
 462261,Battlefleet Gothic: Armada - Tau Empire,Very Positive,88%,62
@@ -10727,7 +10727,7 @@ AppID,App Name,All Review,All Percent,All People
 446760,Neighborhorde,Positive,88%,18
 446770,Skeet: VR Target Shooting,Mostly Positive,78%,130
 446780,AMOK,Mostly Negative,36%,119
-446790,Diluvion,None,None,None
+446790,Diluvion,0,0,0
 446800,Transport Fever,Mostly Positive,76%,"4,263"
 446810,Blossom Tales: The Sleeping King,Very Positive,82%,86
 446830,The Lonesome Fog,Positive,93%,46
@@ -10743,7 +10743,7 @@ AppID,App Name,All Review,All Percent,All People
 446330,Guns of Infinity,Very Positive,96%,56
 446340,Guns of Infinity Demo,Very Positive,96%,56
 446380,Sophie's Curse,Very Positive,86%,279
-446460,Highland Warriors,None,None,9
+446460,Highland Warriors,0,0,9
 446480,New York Bus Simulator,Mostly Negative,25%,12
 446490,Rail Cargo Simulator,Mostly Negative,35%,14
 445680,NEKOPARA Vol. 2 - Theme Song,Very Positive,98%,56
@@ -10906,7 +10906,7 @@ AppID,App Name,All Review,All Percent,All People
 439260,BUTTS,Positive,89%,28
 439310,Until I Have You,Very Positive,80%,78
 439340,Tavern Tycoon,Mostly Positive,71%,321
-439370,Midair,None,None,None
+439370,Midair,0,0,0
 439440,Of Carrots And Blood,Positive,85%,27
 439450,Party Jousting DLC - hats,Positive,100%,10
 439460,Ships 2017,Mostly Negative,30%,112
@@ -11298,7 +11298,7 @@ AppID,App Name,All Review,All Percent,All People
 423220,T-Kara Puzzles,Positive,90%,11
 422810,River City Ransom: Underground,Mostly Positive,75%,"1,356"
 422860,Holodance,Very Positive,87%,167
-422870,Super Duper Flying Genocide 2017,None,None,None
+422870,Super Duper Flying Genocide 2017,0,0,0
 422900,Particle Fleet: Emergence,Very Positive,91%,420
 422910,Creeper World Anniversary Edition,Very Positive,95%,99
 422920,Creeper World 2 Anniversary Edition,Very Positive,91%,56
@@ -11568,7 +11568,7 @@ AppID,App Name,All Review,All Percent,All People
 510690,Yesterday Origins Demo,Very Positive,82%,123
 510740,Konrad the Kitten - a virtual but real cat,Positive,87%,16
 510910,Temple of the Apsara,Positive,80%,45
-509980,BIGFOOT,None,None,None
+509980,BIGFOOT,0,0,0
 510040,A Matter of Murder,Positive,96%,25
 510050,You Have 10 Seconds,Very Positive,90%,"1,126"
 510060,Punch Bomb,Positive,100%,25
@@ -11605,7 +11605,7 @@ AppID,App Name,All Review,All Percent,All People
 508640,Treasure of a blizzard Demo,Very Positive,81%,77
 508710,Project Lounge,Positive,85%,20
 508790,Flat Heroes,Very Positive,100%,61
-508840,Broken Armor,None,None,None
+508840,Broken Armor,0,0,0
 508900,Zup! X,Overwhelmingly Positive,96%,526
 508920,Smell of Death Demo,Mostly Positive,74%,43
 508960,SizeBlock,Mostly Negative,34%,50
@@ -11770,7 +11770,7 @@ AppID,App Name,All Review,All Percent,All People
 500850,Memory Oblivion Box - Original Soundtrack,Positive,100%,12
 500870,Riddles Of The Past,Mostly Positive,72%,118
 501030,Extravaganza Rising,Mostly Positive,76%,25
-501080,Fishing: Barents Sea,None,None,None
+501080,Fishing: Barents Sea,0,0,0
 501110,Mount Wingsuit,Mostly Positive,72%,68
 500241,Train Simulator: BR Standard Class 6 ‘Clan Class’ Steam Loco Add-On,Positive,80%,10
 500245,Train Simulator: DB BR 642 DMU Add-On,Positive,90%,20
@@ -11921,7 +11921,7 @@ AppID,App Name,All Review,All Percent,All People
 495090,Evolution Planet: Gold Edition,Mostly Positive,73%,30
 495110,Enigmatis 3: The Shadow of Karkhala,Very Positive,93%,287
 495120,The Braves & Bows,Mostly Positive,70%,41
-495140,NARUTO: Ultimate Ninja STORM,None,None,None
+495140,NARUTO: Ultimate Ninja STORM,0,0,0
 495160,NARUTO STORM 4 : Road to Boruto Expansion,Mostly Positive,73%,385
 495280,Disgaea 2 PC,Very Positive,89%,555
 495320,Ancient VR coaster,Mostly Negative,30%,13
@@ -11950,7 +11950,7 @@ AppID,App Name,All Review,All Percent,All People
 494420,Valley - Soundtrack,Positive,100%,12
 494480,QuiVr Demo,Very Positive,92%,405
 493650,Deep Space Dash,Mostly Negative,30%,121
-493700,Monster Puzzle,None,None,None
+493700,Monster Puzzle,0,0,0
 493720,Haven Moon,Mostly Positive,75%,171
 493730,HardCube,Very Positive,83%,84
 493760,Fairyland: Incursion,Mostly Negative,21%,19
@@ -12004,7 +12004,7 @@ AppID,App Name,All Review,All Percent,All People
 492510,RWBY: Volume 3,Positive,85%,21
 492530,The Dark Legions,Mostly Positive,79%,49
 491580,Mahjong Destiny,Positive,80%,15
-491600,Megapolis Demo,None,None,None
+491600,Megapolis Demo,0,0,0
 491620,Beeftacular,Mostly Positive,77%,67
 491660,Assault on the Necrospire,Positive,90%,10
 491670,Stratego® Single Player,Mostly Positive,75%,16
@@ -12164,7 +12164,7 @@ AppID,App Name,All Review,All Percent,All People
 485040,Nurse Love Addiction,Very Positive,93%,433
 485050,City Z Demo,Mostly Negative,27%,11
 485070,Dyna Bomb Demo,Mostly Positive,78%,14
-485080,Megapolis,None,None,None
+485080,Megapolis,0,0,0
 485100,The Dope Game Demo,Mostly Positive,78%,147
 485110,PlanetFate,Positive,86%,15
 485120,Frog Climbers,Positive,90%,44
@@ -13337,7 +13337,7 @@ AppID,App Name,All Review,All Percent,All People
 519030,Don't Let Go!,Mostly Positive,71%,42
 519050,Animated Puzzles Demo,Positive,88%,36
 519080,Soda Girls,Very Positive,88%,191
-519140,Minds Eyes,None,None,None
+519140,Minds Eyes,0,0,0
 519180,Streamer Simulator,Negative,7%,28
 518946,Kikoriki: Without Anybody,Very Positive,92%,213
 518947,Kikoriki: Red Letter Days,Very Positive,92%,213
@@ -13654,7 +13654,7 @@ AppID,App Name,All Review,All Percent,All People
 412770,Boogeyman,Very Positive,84%,315
 412790,Adventure Time: Magic Man's Head Games,Mostly Positive,73%,115
 412830,STEINS;GATE,Overwhelmingly Positive,97%,"4,690"
-412880,Drift Streets Japan,None,None,None
+412880,Drift Streets Japan,0,0,0
 412930,Farm Mania: Hot Vacation,Positive,92%,13
 412990,The Escapists - Santa's Sweatshop,Very Positive,86%,220
 412270,Stories of Bethem: Full Moon,Positive,82%,45
@@ -13787,7 +13787,7 @@ AppID,App Name,All Review,All Percent,All People
 408610,Rocket League® - Chaos Run DLC Pack,Very Positive,92%,363
 408650,ChromaGun,Mostly Positive,77%,97
 408710,Hacknet Official Soundtrack,Positive,96%,27
-407840,Guardians of Orion,None,None,None
+407840,Guardians of Orion,0,0,0
 407880,Mad Nords: Probably an Epic Quest,Positive,90%,20
 407900,Princess Remedy in a World of Hurt,Overwhelmingly Positive,97%,"2,286"
 407920,Contagion OST,Positive,94%,19
@@ -13902,7 +13902,7 @@ AppID,App Name,All Review,All Percent,All People
 403950,Conquest of Elysium 4,Very Positive,91%,267
 403970,The Dwarves,Mostly Positive,75%,607
 403980,World Ship Simulator,Very Negative,17%,123
-404011,Total War: WARHAMMER - Blood for the Blood God,None,None,None
+404011,Total War: WARHAMMER - Blood for the Blood God,0,0,0
 404013,Total War: WARHAMMER - The Grim and the Grave,Mostly Positive,73%,540
 404014,Total War: WARHAMMER - The King and the Warlord,Very Positive,84%,443
 404015,Total War: WARHAMMER - Wurrzag,Very Positive,84%,332
@@ -14624,7 +14624,7 @@ AppID,App Name,All Review,All Percent,All People
 377060,On a Roll,Mostly Positive,71%,207
 377070,Noctropolis,Mostly Positive,78%,19
 377080,Hatoful Boyfriend: Holiday Star,Very Positive,96%,225
-377120,Chronicle Keepers: The Dreaming Garden,None,None,None
+377120,Chronicle Keepers: The Dreaming Garden,0,0,0
 377150,Tactical Genius,Mostly Positive,77%,31
 377190,Pale Echoes,Positive,93%,15
 376770,Big Thinkers 1st Grade,Positive,87%,16
@@ -14657,13 +14657,13 @@ AppID,App Name,All Review,All Percent,All People
 375820,Human Resource Machine,Very Positive,94%,"1,263"
 375840,Rytmik Ultimate,Very Positive,85%,213
 375890,"Football, Tactics & Glory Demo",Very Positive,81%,70
-375910,Anno 2205,None,None,None
+375910,Anno 2205,0,0,0
 375930,Trap Them,Mostly Positive,76%,13
 375950,Viridi,Very Positive,90%,"5,888"
 376120,Assault CorpsII,Mostly Negative,37%,40
 376150,Industry Transporters,Mostly Negative,33%,39
 376200,100% Orange Juice - Krila & Kae Character Pack,Positive,100%,43
-376210,The Isle,None,None,None
+376210,The Isle,0,0,0
 376240,Hadean Lands,Positive,94%,19
 376300,GUILTY GEAR Xrd -SIGN-,Very Positive,92%,"1,698"
 376310,Otherland,Mostly Negative,35%,540
@@ -14940,7 +14940,7 @@ AppID,App Name,All Review,All Percent,All People
 365360,Battle Brothers,Very Positive,87%,"4,474"
 365380,Battle Brothers - Soundtrack,Positive,90%,11
 365420,Apollo4x,Mostly Negative,30%,20
-365430,Everything is Black and White,None,None,9
+365430,Everything is Black and White,0,0,9
 365450,Hacknet,Very Positive,92%,"7,950"
 365500,quadrant,Positive,88%,27
 365580,Beeswing,Positive,94%,34
@@ -15000,7 +15000,7 @@ AppID,App Name,All Review,All Percent,All People
 363600,Holy Potatoes! A Weapon Shop?!,Mostly Positive,72%,697
 363610,Botology,Mostly Negative,29%,238
 363660,Island Flight Simulator,Negative,12%,24
-363680,Battlefleet Gothic: Armada,None,None,None
+363680,Battlefleet Gothic: Armada,0,0,0
 363790,Egg Returns Home,Very Positive,80%,413
 584400,Sonic Mania,Very Positive,88%,"6,886"
 584097,Little Nightmares - The Residence DLC,Very Positive,86%,60
@@ -15673,7 +15673,7 @@ AppID,App Name,All Review,All Percent,All People
 555310,Satellite,Positive,83%,30
 555320,Never give up!,Very Positive,87%,57
 555400,Collision Course,Very Positive,83%,145
-555440,DEATHGARDEN,None,None,None
+555440,DEATHGARDEN,0,0,0
 555580,The Legend of Dark Witch Episode 2 -The Price of Desire-,Positive,89%,29
 555600,Hopalong: The Badlands,Positive,90%,21
 555610,Gunmetal Arcadia Zero,Mostly Positive,75%,28
@@ -15727,7 +15727,7 @@ AppID,App Name,All Review,All Percent,All People
 553640,ICEY,Very Positive,91%,"16,579"
 553660,PWND,Mostly Positive,71%,798
 553670,Beholder - Original Soundtrack,Very Positive,97%,72
-553690,Dustoff Heli Rescue 2,None,None,None
+553690,Dustoff Heli Rescue 2,0,0,0
 553700,Planet Explorers - OST,Positive,90%,20
 553100,Timber! The Logging Experts,Mostly Negative,33%,15
 553200,Bullets And More VR - BAM VR Demo,Very Positive,90%,445
@@ -15803,7 +15803,7 @@ AppID,App Name,All Review,All Percent,All People
 551810,Motorsport Manager - Livery Pack,Positive,87%,40
 551820,Total War: WARHAMMER - Jade Wizard,Mostly Positive,76%,150
 551821,Total War: WARHAMMER - Grey Wizard,Mostly Positive,75%,177
-551880,Minion Masters - Premium Upgrade,None,None,None
+551880,Minion Masters - Premium Upgrade,0,0,0
 551080,Rescue your chickens,Mostly Positive,75%,32
 551110,WayOut,Very Positive,89%,525
 551170,Onmyoji,Mostly Positive,76%,25
@@ -15890,7 +15890,7 @@ AppID,App Name,All Review,All Percent,All People
 549330,Con Man: Full Release,Very Positive,85%,84
 549331,Con Man: Found and Lost,Very Positive,85%,84
 549332,Con Man: Too Much Closure For Comfort,Very Positive,85%,84
-548650,Lightspeed Frontier,None,None,None
+548650,Lightspeed Frontier,0,0,0
 548680,Iron Crypticle,Positive,89%,39
 548700,Bit Blaster XL Soundtrack,Positive,97%,45
 548760,CameraBag Photo,Mostly Negative,37%,40
@@ -16379,7 +16379,7 @@ AppID,App Name,All Review,All Percent,All People
 346250,The Old Tree,Very Positive,89%,"3,081"
 346290,Penumbra: Necrologue,Very Positive,86%,353
 346320,Streets of Chaos,Mostly Negative,34%,23
-346330,BrainBread 2,None,None,None
+346330,BrainBread 2,0,0,0
 346340,Gran Vitreous,Positive,82%,23
 346360,Medieval Engineers - Deluxe,Positive,86%,30
 346420,The Spatials,Mostly Positive,72%,217
@@ -16650,7 +16650,7 @@ AppID,App Name,All Review,All Percent,All People
 591930,Genesia Legacy: Ultimate Domain,Positive,80%,45
 591970,Fishing Planet: Spring Cats Pack,Positive,84%,13
 592030,Just In Time Incorporated,Mostly Positive,78%,91
-591530,Hyper Universe,None,None,None
+591530,Hyper Universe,0,0,0
 591560,Red Death,Mostly Positive,79%,49
 591590,SoulSet Demo,Positive,97%,37
 591630,Candleman: The Complete Journey,Very Positive,95%,356
@@ -16678,7 +16678,7 @@ AppID,App Name,All Review,All Percent,All People
 590590,Remnants of Naezith,Very Positive,97%,227
 590610,Tales of Maj'Eyal - Forbidden Cults,Positive,96%,31
 589590,Kindergarten,Very Positive,93%,"2,007"
-589620,It Lurks in the Woods,None,None,None
+589620,It Lurks in the Woods,0,0,0
 589640,Spoids,Mostly Positive,75%,33
 589670,Double Kick Heroes,Very Positive,80%,73
 589690,Queen's Quest 3: The End of Dawn,Mostly Positive,77%,22
@@ -16715,7 +16715,7 @@ AppID,App Name,All Review,All Percent,All People
 589060,"Trapper Knight, Sharpshooter Princess",Positive,85%,14
 588160,Pizza Connection 3,Mostly Negative,37%,308
 588180,Totemori,Very Positive,85%,240
-588220,Tom Clancy's The Division Trial,None,None,None
+588220,Tom Clancy's The Division Trial,0,0,0
 588230,Beckett,Positive,100%,20
 588240,Frisky Business,Very Positive,84%,103
 588290,Goalie Challenge VR,Very Positive,93%,65
@@ -16806,7 +16806,7 @@ AppID,App Name,All Review,All Percent,All People
 584970,theHunter - Extra Equipment,Very Positive,88%,170
 584980,Late Shift,Very Positive,89%,"3,645"
 584990,The Long Reach,Very Positive,85%,64
-585080,Hunting Simulator,None,None,None
+585080,Hunting Simulator,0,0,0
 585180,Open Sorcery,Very Positive,97%,135
 585190,A Gummy's Life,Very Positive,84%,50
 584590,Putrefaction 2: Void Walker Demo,Mostly Positive,75%,120
@@ -16854,7 +16854,7 @@ AppID,App Name,All Review,All Percent,All People
 867420,Andor - the Cards of Wonder,Mostly Positive,77%,27
 506500,Party Panic,Mostly Positive,70%,582
 456670,Hand of Fate 2,Very Positive,86%,"2,331"
-856370,One-way Ticket · 单程票,None,None,None
+856370,One-way Ticket · 单程票,0,0,0
 802130,Break The Targets,Positive,100%,22
 393380,Squad,Very Positive,83%,"18,302"
 809440,Protolife,Mostly Positive,79%,141
@@ -16899,7 +16899,7 @@ AppID,App Name,All Review,All Percent,All People
 322330,Don't Starve Together,Overwhelmingly Positive,96%,"57,280"
 346900,AdVenture Capitalist,Very Positive,89%,"38,766"
 356910,Battle Fantasia -Revised Edition-,Mostly Positive,70%,88
-365590,Tom Clancy's The Division,None,None,None
+365590,Tom Clancy's The Division,0,0,0
 370020,Templar Battleforce,Very Positive,94%,636
 873290,樱花片落恋模样 This is a very sweet love story.,Positive,100%,27
 880950,爱上火车-Pure Station-,Very Positive,97%,345
@@ -17028,7 +17028,7 @@ AppID,App Name,All Review,All Percent,All People
 33100,Alien Shooter,Very Positive,89%,376
 714010,Aim Lab,Mostly Positive,74%,543
 736190,中国式家长/Chinese Parents,Very Positive,87%,"5,316"
-649790,Harvest Life,None,None,None
+649790,Harvest Life,0,0,0
 308600,Geneshift,Very Positive,94%,77
 620400,Geneshift Demo,Very Positive,94%,77
 907320,Three Kingdoms: Legends of Heroes,Very Positive,88%,75
@@ -17125,7 +17125,7 @@ AppID,App Name,All Review,All Percent,All People
 243970,"Invisible, Inc.",Very Positive,92%,"3,129"
 383120,Empyrion - Galactic Survival,Very Positive,82%,"10,642"
 518790,theHunter™: Call of the Wild,Mostly Positive,78%,"14,502"
-739810,Odd Island,None,None,None
+739810,Odd Island,0,0,0
 678900,Farmer's Dynasty,Mostly Positive,76%,695
 572430,Party Hard 2 ,Very Positive,86%,197
 384480,Six Sides of the World,Positive,85%,41

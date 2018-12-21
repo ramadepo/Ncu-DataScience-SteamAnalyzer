@@ -4,8 +4,8 @@ from matplotlib.figure import Figure
 import matplotlib.pyplot as plt
 import numpy as np
 class PlotManager(FigureCanvas):
+    # initialize the object for plotting picture
     def __init__(self, parent, width, height, dpi):
-        # initialize the object for plotting picture
         fig = Figure(figsize=(width, height), dpi=dpi)
         self.axes = fig.add_subplot(111)
         FigureCanvas.__init__(self, fig)
@@ -13,13 +13,34 @@ class PlotManager(FigureCanvas):
         FigureCanvas.setSizePolicy(
             self, QSizePolicy.Expanding, QSizePolicy.Expanding)
         FigureCanvas.updateGeometry(self)
+        self.x = []
+        self.y = []
+        self.changed = False
         self.init_plot()
+
+    # first plot with nothing, just a line
     def init_plot(self):
         self.axes.clear()
         self.axes.set_title('Initialized')
-        self.axes.set_xlim(0, 30)
-        self.axes.set_ylim(0, 1000)
         x = range(31)
         y = range(0, 1000, 33)
         self.axes.plot(x, y, color='red')
         self.draw()
+
+    # clean the plot and set the title
+    def subplot(self, tags):
+        self.axes.clear()
+        self.axes.set_title(tags)
+
+    # plot the data filtering line
+    def plot(self, tags):
+        self.subplot(tags)
+        self.axes.plot(self.x, self.y, color='red')
+        self.draw()
+        self.changed = False
+
+    # set x and y coordinate
+    def set_x_y(self, x, y):
+        self.x = x
+        self.y = y
+        self.changed = True

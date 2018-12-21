@@ -81,7 +81,7 @@ AppID,App Name,All Review,All Percent,All People
 940300,Escape Legacy : Ancient Scrolls,Positive,86%,15
 940520,Attractorache,Positive,87%,24
 939840,theHunter™: Call of the Wild - Duck and Cover Pack,Positive,89%,49
-940130,Red and Blue ~ Cycles of Existence,None,None,1
+940130,Red and Blue ~ Cycles of Existence,0,0,1
 939340,Maze Of Adventures Demo,Positive,94%,19
 939390,The Life of One Dog,Mostly Positive,77%,22
 939400,LoveChoice 拣爱,Very Positive,94%,952
@@ -293,7 +293,7 @@ AppID,App Name,All Review,All Percent,All People
 918820,Headliner: NoviNews,Positive,90%,32
 918120,A.L.A.N.: Rift Breakers,Positive,100%,10
 918130,Entre-Deux: Cursed,Positive,100%,10
-918140,Hack the Core,None,None,3
+918140,Hack the Core,0,0,3
 918170,Curiosity,Positive,86%,46
 918380,Choice of Magics,Very Positive,95%,64
 917660,Cardiganical,Positive,100%,17
@@ -782,12 +782,12 @@ AppID,App Name,All Review,All Percent,All People
 91800,Cloning Clyde,Positive,87%,48
 91810,Ancients of Ooga,Positive,81%,16
 91820,Cloning Clyde Demo,Positive,87%,48
-82143,Zombie Driver HD Release Trailer,None,None,None
+82143,Zombie Driver HD Release Trailer,0,0,0
 82149,Painkiller Hell and Damnation Feature,Mostly Positive,76%,"1,784"
 82152,Tiny Troopers Zombie Trailer,Very Positive,81%,753
-82159,Divinity II Developers Cut Trailer ENG,None,None,None
+82159,Divinity II Developers Cut Trailer ENG,0,0,0
 82170,F1 Racestars Attract,Mostly Positive,77%,449
-82171,F1 Racestars,None,None,None
+82171,F1 Racestars,0,0,0
 82172,Lucius Release Trailer,Mostly Positive,79%,"4,532"
 82173,Defenders Quest Trailer,Overwhelmingly Positive,96%,"2,080"
 82175,Painkiller Hell and Damnation Release Trailer,Mostly Positive,76%,"1,784"
@@ -797,25 +797,25 @@ AppID,App Name,All Review,All Percent,All People
 90400,Blue Toad Murder Files - The Mysteries of Little Riddle,Positive,86%,38
 90410,Blue Toad Murder Files: The Mysteries of Little Riddle - Demo,Positive,86%,38
 82071,Cortex Command Trailer,Very Positive,81%,"1,282"
-82073,XCOM EU Deep Dive 1,None,None,None
+82073,XCOM EU Deep Dive 1,0,0,0
 82080,Hell Yeah Gameplay PEGI Trailer,Very Positive,86%,376
 82081,Hell Yeah Gameplay PEGI Trailer FR,Very Positive,86%,376
 82090,3DMark 11 Trailer,Positive,82%,28
 82091,3D Coat TF2 Item Tutorial,Very Positive,94%,70
-82098,Retro City Rampage Launch Trailer,None,None,None
+82098,Retro City Rampage Launch Trailer,0,0,0
 82101,Arena Wars 2 Gameplay Trailer,Mostly Negative,32%,328
-82121,Harveys new eyes ENG,None,None,None
-82123,Of Orcs and Men Launch Trailer,None,None,None
-82125,Chivalry Medieval Warfare Trailer x,None,None,None
+82121,Harveys new eyes ENG,0,0,0
+82123,Of Orcs and Men Launch Trailer,0,0,0
+82125,Chivalry Medieval Warfare Trailer x,0,0,0
 82128,Serious Sam 3  Jewel of the Nile DLC,Very Positive,88%,"12,135"
-82136,Hotline Miami The Masks,None,None,None
+82136,Hotline Miami The Masks,0,0,0
 82137,Giana Sisters Trailer,Very Positive,84%,769
-82138,Hotline Miami The Weapons,None,None,None
-82139,Giana Sisters Release Trailer,None,None,None
+82138,Hotline Miami The Weapons,0,0,0
+82139,Giana Sisters Release Trailer,0,0,0
 82140,Super Hexagon Trailer,Overwhelmingly Positive,97%,"14,460"
 82019,Torchlight 2 Trailer,Very Positive,94%,"21,734"
 82021,FTL Faster Than Light Trailer,Overwhelmingly Positive,96%,"32,851"
-82022,Critter Crunch Trailer,None,None,None
+82022,Critter Crunch Trailer,0,0,0
 82024,Oddworld Strangers Wrath HD Trailer,Very Positive,84%,759
 82025,Continent of the Ninth Seal Trailer,Mostly Positive,72%,"1,205"
 82026,Tryst Gameplay Trailer,Negative,16%,30
@@ -823,118 +823,118 @@ AppID,App Name,All Review,All Percent,All People
 82033,Jet Set Radio PEGI Trailer,Very Positive,88%,"1,595"
 82039,Lunar Flight Storms,Very Positive,87%,412
 82040,Lunar Flight Mars Update,Very Positive,87%,412
-82048,The Testament of Sherlock Holmes Trailer,None,None,None
+82048,The Testament of Sherlock Holmes Trailer,0,0,0
 82050,Company Of Heroes 2  Trailer,Mostly Positive,75%,"26,293"
-82051,Of Orcs and Men Trailer,None,None,None
+82051,Of Orcs and Men Trailer,0,0,0
 82056,PKHD,Mostly Positive,76%,"1,784"
 82057,Company Of Heroes 2  Trailer DE,Mostly Positive,75%,"26,293"
-82060,Guns of Icarus Online,None,None,None
+82060,Guns of Icarus Online,0,0,0
 82061,Colourbind Trailer 2,Mostly Positive,70%,17
 82062,McPixel Trailer,Very Positive,86%,"2,187"
 82064,Analogue A Hate Story KR Trailer,Very Positive,94%,"1,445"
 82065,Lucius Intro Trailer,Mostly Positive,79%,"4,532"
 82066,Lucius Trailer,Mostly Positive,79%,"4,532"
-81964,Dark Souls PTDE  Release Trailer,None,None,None
+81964,Dark Souls PTDE  Release Trailer,0,0,0
 81966,Great Big War Game Trailer,Positive,92%,28
-81971,They Bleed Pixels,None,None,None
+81971,They Bleed Pixels,0,0,0
 81974,Snapshot Trailer,Mostly Positive,73%,41
 81978,F1 2012 Dev Diary 2,Very Positive,87%,861
-81982,Half Minute Hero Trailer,None,None,None
+81982,Half Minute Hero Trailer,0,0,0
 81984,Tiny Troopers Trailer,Very Positive,81%,753
 81985,The Basement Collection Trailer,Very Positive,86%,672
-81986,Natural Selection 2 Trailer,None,None,None
-81991,Gotham City Impostors F2P Trailer 2,None,None,None
+81986,Natural Selection 2 Trailer,0,0,0
+81991,Gotham City Impostors F2P Trailer 2,0,0,0
 81994,Garshasp Temple of the Dragon,Mostly Negative,25%,63
 81998,Gateways Trailer,Very Positive,93%,120
-81999,XCOM EU The Base Trailer,None,None,None
-82000,XCOM EU Last Stand Trailer,None,None,None
+81999,XCOM EU The Base Trailer,0,0,0
+82000,XCOM EU Last Stand Trailer,0,0,0
 82001,Trine 2 Goblin Menace Trailer,Overwhelmingly Positive,95%,"11,166"
 82006,Closure_Trailer,Very Positive,86%,306
-82007,Intrusion 2 Trailer,None,None,None
+82007,Intrusion 2 Trailer,0,0,0
 82008,Worms Revolution Trailer,Very Positive,84%,"2,884"
-82010,F1 2012 Trailer PEGI,None,None,None
+82010,F1 2012 Trailer PEGI,0,0,0
 82013,Worms Revolution Trailer 3,Very Positive,84%,"2,884"
 81913,Tales From Space Mutant Blobs Attack Teaser,Very Positive,92%,274
 81914,DeathRally Launch Trailer,Mixed,69%,373
-81915,Deponia Trailer,None,None,None
-81921,Galaxy on Fire 2 HD Trailer,None,None,None
-81923,Unmechanical Video,None,None,None
-81924,Deponia Launch Trailer,None,None,None
+81915,Deponia Trailer,0,0,0
+81921,Galaxy on Fire 2 HD Trailer,0,0,0
+81923,Unmechanical Video,0,0,0
+81924,Deponia Launch Trailer,0,0,0
 81926,Tryst Trailer,Negative,16%,30
 81928,Colourbind Trailer,Mostly Positive,70%,17
 81935,Hero Academy Trailer,Mostly Positive,73%,434
 81939,Super Crate Box Trailer,Very Positive,89%,"6,666"
-81943,Mann vs Machine_Trailer,None,None,None
+81943,Mann vs Machine_Trailer,0,0,0
 81947,Dungeons and Dragons Online Trailer,Mostly Positive,72%,"2,284"
 81948,Mutant Blobs Attack Launch Trailer,Very Positive,92%,274
 81949,Analogue A Hate Story Trailer,Very Positive,94%,"1,445"
-81951,Dark Souls GamesCom Trailer PEGI,None,None,None
-81957,Dins Curse Trailer,None,None,None
-81958,CS GO_Trailer_Short_NR,None,None,None
+81951,Dark Souls GamesCom Trailer PEGI,0,0,0
+81957,Dins Curse Trailer,0,0,0
+81958,CS GO_Trailer_Short_NR,0,0,0
 81961,Home Trailer,Mostly Positive,70%,"1,030"
 81962,Spirits Trailer,Mostly Positive,71%,66
 81864,AirMech Trailer,Very Positive,84%,"9,001"
-81880,Borderlands 2 Wimoweh Trailer,None,None,None
-81881,Borderlands 2 Prepurchase Trailer,None,None,None
+81880,Borderlands 2 Wimoweh Trailer,0,0,0
+81881,Borderlands 2 Prepurchase Trailer,0,0,0
 81883,Divine Divinity Gameplay Trailer,Very Positive,87%,"1,269"
-81891,The Book of Unwritten Tales Trailer,None,None,None
-81892,The Book of Unwritten Tales Mummy Trailer,None,None,None
+81891,The Book of Unwritten Tales Trailer,0,0,0
+81892,The Book of Unwritten Tales Mummy Trailer,0,0,0
 81893,A Virus Named Tom Launch Trailer,Mostly Positive,71%,57
 81899,The Book of Unwritten Tales Release Trailer,Very Positive,89%,"1,039"
 81909,Awesomenauts Trailer,Very Positive,85%,"24,335"
-81910,Tower Wars Trailer,None,None,None
+81910,Tower Wars Trailer,0,0,0
 81911,Skyrim Dawnguard Trailer,Very Positive,89%,"1,135"
-81912,Dishonored Trailer,None,None,None
-81846,Hard Reset Exile Trailer,None,None,None
-81848,Source FilmMaker Trailer,None,None,None
+81912,Dishonored Trailer,0,0,0
+81846,Hard Reset Exile Trailer,0,0,0
+81848,Source FilmMaker Trailer,0,0,0
 81852,X3 Albino Prelude Trailer,Very Positive,92%,"1,008"
 81855,Kungfu Strike Trailer,Mostly Positive,79%,618
 81856,KungFuStrike Preview,Mostly Positive,79%,618
 81857,Resonance Trailer,Very Positive,91%,297
-81859,PAYDAY The Heist Mercy Hospital Trailer,None,None,None
-81763,Civilization V Gods and Kings Lead Your Civ Trailer,None,None,None
+81859,PAYDAY The Heist Mercy Hospital Trailer,0,0,0
+81763,Civilization V Gods and Kings Lead Your Civ Trailer,0,0,0
 81767,Napoleon Total War DLC Trailer,Very Positive,88%,"4,784"
 81768,Tiny and Big Trailer 3,Very Positive,92%,"2,520"
 81769,Tiny and Big Trailer 4,Very Positive,92%,"2,520"
 81771,Magic the Gathering 2013,Very Positive,87%,893
-81772,PAM Abandoned Sawmill,None,None,None
-81778,Dark Eye Story ENG,None,None,None
-81779,Dark Eye PC Trailer,None,None,None
-81792,Tribes Ascend Gameplay English,None,None,None
-81794,Tribes Ascend Announcement Trailer,None,None,None
-81795,Tribes Ascend Focus Trailer,None,None,None
+81772,PAM Abandoned Sawmill,0,0,0
+81778,Dark Eye Story ENG,0,0,0
+81779,Dark Eye PC Trailer,0,0,0
+81792,Tribes Ascend Gameplay English,0,0,0
+81794,Tribes Ascend Announcement Trailer,0,0,0
+81795,Tribes Ascend Focus Trailer,0,0,0
 81798,Meet the Pyro,Very Positive,93%,"538,217"
-81800,Team Fortress 2: Meet the Pyro,None,None,None
-81806,The Walking Dead Episode 2 Trailer,None,None,None
+81800,Team Fortress 2: Meet the Pyro,0,0,0
+81806,The Walking Dead Episode 2 Trailer,0,0,0
 81713,Dark Souls Trailer ESRB,Very Positive,89%,"48,151"
 81716,Dark Souls Trailer PEGI,Very Positive,89%,"48,151"
-81721,Max Payne 3 Launch Trailer,None,None,None
+81721,Max Payne 3 Launch Trailer,0,0,0
 81723,Imagine Earth Trailer,Mostly Positive,77%,223
 81725,Symphony Trailer,Very Positive,87%,722
 81730,Bang Bang Racing Teaser,Very Positive,82%,193
 81731,Bang Bang Racing Vantage Point Trailer,Very Positive,82%,193
-81732,Splice Trailer,None,None,None
-81737,Spec Ops The Line TV Trailer,None,None,None
+81732,Splice Trailer,0,0,0
+81737,Spec Ops The Line TV Trailer,0,0,0
 81743,Rune Trailer 1,Very Positive,92%,355
 81744,Rune Trailer 2,Very Positive,92%,355
-81745,Sins of a Solar Empire Rebellion Trailer,None,None,None
-81747,Divine Divinity Trailer,None,None,None
+81745,Sins of a Solar Empire Rebellion Trailer,0,0,0
+81747,Divine Divinity Trailer,0,0,0
 81749,Fray Trailer,Negative,0%,40
 81750,Dead Hungry Diner Zen Master Guide,Positive,80%,30
 81751,Dead Hungry Diner Patch Featurette,Positive,80%,30
 81665,Dead Hungry Diner Gameplay Trailer,Positive,80%,30
-81669,Adventures of Shuggy Trailer,None,None,None
-81670,Spec Ops The Line Gameplay,None,None,None
+81669,Adventures of Shuggy Trailer,0,0,0
+81670,Spec Ops The Line Gameplay,0,0,0
 81680,Indie Game the Movie Trailer,Overwhelmingly Positive,96%,850
 81681,Dungeon Defenders Summoner Hero Trailer,Positive,90%,21
 81682,Swords and Soldiers Sausage DLC Trailer,Very Positive,90%,250
-81690,Red Orchestra 2 GOTY Trailer,None,None,None
-81691,Red Orchestra 2 GOTY Dev Diary,None,None,None
+81690,Red Orchestra 2 GOTY Trailer,0,0,0
+81691,Red Orchestra 2 GOTY Dev Diary,0,0,0
 81697,Fieldrunners Trailer,Mostly Positive,75%,84
-81698,the Binding of Isaac Wrath of the Lamb Trailer,None,None,None
+81698,the Binding of Isaac Wrath of the Lamb Trailer,0,0,0
 81701,Tiny and Big in Grandpas Leftovers Trailer 2,Very Positive,92%,"2,520"
 81704,Fall of the Samurai Clan Packs Trailer,Very Positive,96%,124
-81705,Ys Origin Trailer,None,None,None
+81705,Ys Origin Trailer,0,0,0
 81706,Lord of the Rings Online FR,Very Positive,81%,"8,210"
 81707,Lord of the Rings Online UK,Very Positive,81%,"8,210"
 81708,Lord of the Rings Online US,Very Positive,81%,"8,210"
@@ -943,30 +943,30 @@ AppID,App Name,All Review,All Percent,All People
 81608,Tiny and Big in Grandpas Leftovers Trailer,Very Positive,92%,"2,520"
 81609,Torchlight II Trailer,Very Positive,94%,"21,734"
 81612,Fall of the Samurai Interview Trailer,Very Positive,96%,124
-81613,Portal 2 DLC 2 Trailer,None,None,None
+81613,Portal 2 DLC 2 Trailer,0,0,0
 81615,AS2 Conscription,Mostly Positive,78%,52
-81618,Toy Soldiers Trailer,None,None,None
-81627,The Walking Dead Story Trailer,None,None,None
+81618,Toy Soldiers Trailer,0,0,0
+81627,The Walking Dead Story Trailer,0,0,0
 81633,Iron Grip Warlord Scorched Earth DLC Trailer,Very Positive,87%,207
 81637,Saints Row The Third Steelport Gangs Trailer,Overwhelmingly Positive,96%,"29,398"
-81639,Alan Wakes American Nightmare Trailer,None,None,None
+81639,Alan Wakes American Nightmare Trailer,0,0,0
 81640,Dynamite Jack Trailer,Very Positive,90%,115
-81641,Magical Diary Trailer,None,None,None
+81641,Magical Diary Trailer,0,0,0
 81645,Offsrping Fling Trailer,Very Positive,88%,122
 81655,Nancy Drew Tomb of the Lost Queen,Positive,87%,16
 81658,Dead Hungry Diner Trailer,Positive,80%,30
 81557,Avernum Escape From the Pit Trailer,Very Positive,92%,602
-81560,Insanely Twisted Shadow Planet Trailer,None,None,None
-81561,Insanely Twisted Shadow Planet Hunter Trailer,None,None,None
-81567,Max Payne 3 Multiplayer,None,None,None
-81568,Max Payne 3 Design and Tech Video 3,None,None,None
-81569,Max Payne 3 Design and Tech Video 2,None,None,None
+81560,Insanely Twisted Shadow Planet Trailer,0,0,0
+81561,Insanely Twisted Shadow Planet Hunter Trailer,0,0,0
+81567,Max Payne 3 Multiplayer,0,0,0
+81568,Max Payne 3 Design and Tech Video 3,0,0,0
+81569,Max Payne 3 Design and Tech Video 2,0,0,0
 81570,Noitu Love 2 Devolution,Very Positive,94%,397
 81571,Superbrothers Sword and Sworcery EP Trailer,Mostly Positive,79%,"1,134"
-81573,Deep Black Trailer 2,None,None,None
+81573,Deep Black Trailer 2,0,0,0
 81574,McGuffins Curse Tailer ,Positive,93%,32
-81578,Deep Black Trailer,None,None,None
-81580,The Walking Dead Trailer,None,None,None
+81578,Deep Black Trailer,0,0,0
+81580,The Walking Dead Trailer,0,0,0
 81583,Mount and Blade Napoleonic Wars Trailer,Very Positive,90%,"2,522"
 81584,AZMD Scorepocolypse,Mostly Positive,75%,36
 81585,Lone Survivor Trailer,Very Positive,88%,648
@@ -975,236 +975,236 @@ AppID,App Name,All Review,All Percent,All People
 81595,Toy Soldier Trailer,Very Positive,90%,"1,018"
 81598,Call of Duty Modern Warfare 3 Collection 1 Trailer,Positive,92%,13
 81602,SHOGUN 2 Fall of the Samurai Acclaim Trailer,Very Positive,96%,124
-81507,Toki Tori 2 Teaser Trailer,None,None,None
-81513,Stellar Impact Trailer,None,None,None
-81517,Confrontation Teaser Trailer,None,None,None
-81518,Blades of Time Trailer,None,None,None
+81507,Toki Tori 2 Teaser Trailer,0,0,0
+81513,Stellar Impact Trailer,0,0,0
+81517,Confrontation Teaser Trailer,0,0,0
+81518,Blades of Time Trailer,0,0,0
 81519,Legend of Grimrock Launch Trailer,Very Positive,94%,"3,167"
-81520,Risen 2 Dark Waters CGI Trailer PEGI English,None,None,None
-81531,Dungeon Defenders Series EV Trailer,None,None,None
-81532,English Country Tune Trailer,None,None,None
+81520,Risen 2 Dark Waters CGI Trailer PEGI English,0,0,0
+81531,Dungeon Defenders Series EV Trailer,0,0,0
+81532,English Country Tune Trailer,0,0,0
 81534,Game of Thrones Epic Plot Trailer,Mostly Positive,71%,"1,095"
-81542,Retro City Rampage Trailer,None,None,None
-81543,Retro City Rampage Cereal Trailer,None,None,None
-81546,Sins of a Solar Empire Rebellion Teaser,None,None,None
+81542,Retro City Rampage Trailer,0,0,0
+81543,Retro City Rampage Cereal Trailer,0,0,0
+81546,Sins of a Solar Empire Rebellion Teaser,0,0,0
 81549,Guns of Icarus Online Game Play Trailer,Very Positive,92%,"8,196"
 81551,Botanicula Trailer,Overwhelmingly Positive,96%,"2,244"
-81552,Sniper Elite V2 Trailer,None,None,None
-81460,Janes Advanced Strike Fighters Trailer PEGI,None,None,None
+81552,Sniper Elite V2 Trailer,0,0,0
+81460,Janes Advanced Strike Fighters Trailer PEGI,0,0,0
 81467,iBomber Defense Pacific Trailer,Very Positive,85%,106
 81468,Luxor Evolved Gameplay Trailer,Very Positive,97%,84
-81471,Containment Trailer,None,None,None
-81473,Stacking PC Trailer,None,None,None
+81471,Containment Trailer,0,0,0
+81473,Stacking PC Trailer,0,0,0
 81475,Cubemen Trailer 3,Mostly Positive,74%,320
-81478,Rayman Origins Trailer,None,None,None
+81478,Rayman Origins Trailer,0,0,0
 81482,Assassins Creed III Trailer,Mostly Positive,74%,"9,948"
 81483,Defenders of Ardania Trailer,Mostly Negative,24%,45
-81486,Hegemony Gold Trailer,None,None,None
-81489,YS The Oath in Felghana,None,None,None
-81490,Crazy Machine Elements Trailer,None,None,None
-81491,Lunar Flight Trailer,None,None,None
+81486,Hegemony Gold Trailer,0,0,0
+81489,YS The Oath in Felghana,0,0,0
+81490,Crazy Machine Elements Trailer,0,0,0
+81491,Lunar Flight Trailer,0,0,0
 81492,Waveform Trailer,Very Positive,84%,"1,882"
 81496,Saints Row The Third The Trouble with Clones Trailer,Overwhelmingly Positive,96%,"29,398"
 81499,Yesterday Trailer,Very Positive,82%,476
-81408,Pineapple Smash Crew Trailer,None,None,None
+81408,Pineapple Smash Crew Trailer,0,0,0
 81409,Dungeon Defenders - Barbarian Hero Trailer,Positive,85%,14
 81412,1000 Amps Trailer,Mostly Positive,78%,105
 81413,Kingdoms of Amalur: Reckoning Launch Trailer,Very Positive,87%,"8,656"
-81415,Pixeljunk Eden Final Trailer,None,None,None
-81416,SnuggleTruck Trailer,None,None,None
+81415,Pixeljunk Eden Final Trailer,0,0,0
+81416,SnuggleTruck Trailer,0,0,0
 81420,Scoregasm Trailer,Very Positive,86%,73
 81421,Wargame: European Escalation Steam Trailer,Mostly Positive,75%,"1,842"
-81422,Alan Wake Trailer,None,None,None
+81422,Alan Wake Trailer,0,0,0
 81423,Wargame: European Escalation Beta Trailer,Mostly Positive,75%,"1,842"
 81424,Wargame: European Escalation Beta Trailer German,Mostly Positive,75%,"1,842"
 81426,Starpoint Gemini Trailer,Mostly Negative,30%,90
 81428,Vessel Trailer,Very Positive,87%,266
 81429,Vessel Invention Report Trailer,Very Positive,87%,266
-81430,Max Payne 3 Trailer 2,None,None,None
-81431,Realm of the Mad God Trailer,None,None,None
-81433,Crusader Kings II Trailer,None,None,None
+81430,Max Payne 3 Trailer 2,0,0,0
+81431,Realm of the Mad God Trailer,0,0,0
+81433,Crusader Kings II Trailer,0,0,0
 81435,Risen 2 Trailer PEGI,Mostly Positive,76%,"1,481"
 81436,Wargame Launch Trailer,Mostly Positive,75%,"1,842"
-81439,Serious Sam A Retrospective,None,None,None
+81439,Serious Sam A Retrospective,0,0,0
 81440,Really Big Sky Retro Trailer,Mostly Positive,74%,194
 81441,Really Big Sky Trailer,Mostly Positive,74%,194
-81442,Wizorb_trailer,None,None,None
+81442,Wizorb_trailer,0,0,0
 81451,Total War Shogun 2 Fall of the Samurai Trailer INT PEGI,Very Positive,96%,124
 81356,Evochron Mercenary Trailer,Mostly Positive,77%,375
-81362,Dustforce Gameplay Trailer,None,None,None
-81363,Dustforce Trailer,None,None,None
+81362,Dustforce Gameplay Trailer,0,0,0
+81363,Dustforce Trailer,0,0,0
 81365,Saints Row: The Third Genkibowl VII Trailer,Very Positive,88%,59
-81366,Kingdoms of Amalur: Reckoning Trailer,None,None,None
-81367,Dear Esther Trailer,None,None,None
+81366,Kingdoms of Amalur: Reckoning Trailer,0,0,0
+81367,Dear Esther Trailer,0,0,0
 81368,Sonic CD Trailer,Very Positive,91%,"1,789"
-81369,Titan Attacks Launch Trailer,None,None,None
-81370,The Darkness 2 Trailer,None,None,None
-81371,Unstoppable Gorg Gameplay Trailer,None,None,None
-81372,Unstoppable Gorg Launch Trailer,None,None,None
+81369,Titan Attacks Launch Trailer,0,0,0
+81370,The Darkness 2 Trailer,0,0,0
+81371,Unstoppable Gorg Gameplay Trailer,0,0,0
+81372,Unstoppable Gorg Launch Trailer,0,0,0
 81373,Insane 2 Trailer,Mostly Positive,74%,97
 81374,Storm in a Teacup Trailer,Positive,83%,49
-81383,Max Payne 3 Trailer,None,None,None
-81384,Serious Sam 2 Trailer,None,None,None
-81385,Star Trek Online F2P Trailer,None,None,None
+81383,Max Payne 3 Trailer,0,0,0
+81384,Serious Sam 2 Trailer,0,0,0
+81385,Star Trek Online F2P Trailer,0,0,0
 81387,ACR Mediterranean Traveler Map Trailer,Very Positive,84%,"5,818"
 81388,ACR Mediterranean Traveler Map Trailer ESRB,Very Positive,84%,"5,818"
 81306,Flatout 3 Chaos & Destruction Trailer,Overwhelmingly Negative,12%,"1,772"
 81307,Flatout 3 Chaos & Destruction Teaser,Overwhelmingly Negative,12%,"1,772"
 81309,Everquest 2 F2P Announce Trailer,Mostly Positive,73%,"1,125"
-81316,Defense Grid - You Monster DLC Trailer,None,None,None
+81316,Defense Grid - You Monster DLC Trailer,0,0,0
 81317,Everquest 2 Free to Play. Your Way. Teaser,Mostly Positive,73%,"1,125"
-81318,Earth Defense Force: Insect Armageddon Trailer,None,None,None
+81318,Earth Defense Force: Insect Armageddon Trailer,0,0,0
 81322,Dungeons of Dredmor Realm of the Diggle God Trailer,Very Positive,94%,"2,664"
 81324,X3: Albion Prelude Trailer,Very Positive,92%,"1,008"
 81326,PoxNora Sizzle Trailer,Mostly Positive,72%,531
 81328,Saints Row: The Third Explosive Combat Trailer,Overwhelmingly Positive,96%,"29,398"
 81329,Assassin's Creed Revelations Ancestors Char Pack Trailer,Very Positive,84%,"5,818"
 81330,Saints Row: The Third Z Pack Trailer,Overwhelmingly Positive,96%,"29,398"
-81331,Duke Nukem Forever: The Doctor Who Cloned Me Trailer,None,None,None
-81334,Fable - The Lost Chapters Trailer,None,None,None
+81331,Duke Nukem Forever: The Doctor Who Cloned Me Trailer,0,0,0
+81334,Fable - The Lost Chapters Trailer,0,0,0
 81336,Saints Row: The Third Warrior Pack,Overwhelmingly Positive,96%,"29,398"
-81346,Age of Empires III: Complete,None,None,None
+81346,Age of Empires III: Complete,0,0,0
 81347,Rotastic Trailer,Positive,80%,15
 81350,Saints Row: The Third Shark Attack DLC Trailer,Mostly Positive,77%,57
-81353,Choplifter HD Trailer ESRB 2,None,None,None
+81353,Choplifter HD Trailer ESRB 2,0,0,0
 81354,Blackwell Convergence Trailer,Very Positive,94%,219
 81258,Bloodline Champions Launch Trailer,Very Positive,85%,"1,582"
-81269,Serious Sam 3: BFE Weapons Trailer,None,None,None
+81269,Serious Sam 3: BFE Weapons Trailer,0,0,0
 81276,Postal 3 Trailer,Mostly Negative,38%,"1,206"
-81279,Rochard Trailer,None,None,None
-81280,The Elder Scrolls V: Skyrim - Live Action Trailer,None,None,None
+81279,Rochard Trailer,0,0,0
+81280,The Elder Scrolls V: Skyrim - Live Action Trailer,0,0,0
 81281,The Elder Scrolls V: Skyrim - Full Trailer,Very Positive,93%,"154,646"
-81285,Rochard Launch Trailer,None,None,None
-81290,Sins: Trinity Opening Cinematic,None,None,None
-81292,L.A. Noire Trailer,None,None,None
-81294,Serious Sam 3: BFE Launch Trailer,None,None,None
-81295,AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome Trailer,None,None,None
+81285,Rochard Launch Trailer,0,0,0
+81290,Sins: Trinity Opening Cinematic,0,0,0
+81292,L.A. Noire Trailer,0,0,0
+81294,Serious Sam 3: BFE Launch Trailer,0,0,0
+81295,AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome Trailer,0,0,0
 81296,Cave Story+ Launch Trailer,Overwhelmingly Positive,95%,"2,875"
-81300,Terraria New Trailer,None,None,None
+81300,Terraria New Trailer,0,0,0
 81304,Magicka: The Stars Are Left Trailer,Mostly Negative,35%,59
 81305,Flatout 3 Chaos & Destruction Publisher Trailer,Overwhelmingly Negative,12%,"1,772"
 81207,Smash Cars Trailer,Mostly Positive,71%,28
 81210,Stronghold 3 DevDiary2 Trailer,Mostly Negative,26%,"2,014"
 81211,Stronghold 3 DevDiary1 Trailer,Mostly Negative,26%,"2,014"
-81216,Batman Arkham City Trailer,None,None,None
+81216,Batman Arkham City Trailer,0,0,0
 81217,Lightfish Trailer,Very Positive,88%,50
-81224,Worms Crazy Golf Pirate Cave Trailer,None,None,None
+81224,Worms Crazy Golf Pirate Cave Trailer,0,0,0
 81226,Global Ops: Commando Libya Trailer,Mostly Negative,35%,109
-81227,Dungeon Defenders Launch Trailer,None,None,None
-81230,Airline Tycoon 2 Trailer PEGI,None,None,None
+81227,Dungeon Defenders Launch Trailer,0,0,0
+81230,Airline Tycoon 2 Trailer PEGI,0,0,0
 81232,Waves Trailer,Very Positive,94%,891
-81235,Lord of the Rings: War in the North Trailer,None,None,None
+81235,Lord of the Rings: War in the North Trailer,0,0,0
 81237,SkyDrift Trailer,Very Positive,88%,510
-81239,Orcs Must Die Artifacts of Power Trailer,None,None,None
-81242,Gemini Rue Trailer,None,None,None
-81243,Trine 2 Co-op Trailer,None,None,None
-81251,Gemini Rue Trailer wmv,None,None,None
+81239,Orcs Must Die Artifacts of Power Trailer,0,0,0
+81242,Gemini Rue Trailer,0,0,0
+81243,Trine 2 Co-op Trailer,0,0,0
+81251,Gemini Rue Trailer wmv,0,0,0
 81252,inMomentum Teaser,Very Positive,88%,52
 81165,PAM DLC Fuzz Trailer,Positive,90%,10
-81167,PAM DLC Ice Scream Trailer,None,None,None
-81175,Psychonauts New Trailer,None,None,None
-81189,Men of War: Assault Squad Launch Trailer,None,None,None
-81194,Dungeon Defenders Pre-Order Teaser,None,None,None
-81195,Dungeon Defenders Dev Diary 1,None,None,None
-81196,Costume Quest Trailer,None,None,None
+81167,PAM DLC Ice Scream Trailer,0,0,0
+81175,Psychonauts New Trailer,0,0,0
+81189,Men of War: Assault Squad Launch Trailer,0,0,0
+81194,Dungeon Defenders Pre-Order Teaser,0,0,0
+81195,Dungeon Defenders Dev Diary 1,0,0,0
+81196,Costume Quest Trailer,0,0,0
 81198,Worms Crazy Golf,Very Positive,84%,208
 81199,Worms Crazy Golf Britanna Trailer,Very Positive,84%,208
 81202,Alien Zombie Megadeath Trailer,Positive,88%,18
 81104,PT Boats South Gambit Trailer,Mostly Negative,33%,15
-81116,Dungeons: The Dark Lord PEGI Trailer,None,None,None
+81116,Dungeons: The Dark Lord PEGI Trailer,0,0,0
 81118,Nuclear Dawn Commander Tutorial,Mostly Positive,79%,"1,331"
-81121,Hard Reset Launch Trailer,None,None,None
-81124,Xotic Overview Trailer,None,None,None
+81121,Hard Reset Launch Trailer,0,0,0
+81124,Xotic Overview Trailer,0,0,0
 81125,Xotic Weapons Trailer,Very Positive,80%,70
 81126,Xotic Points and Leadboards Trailer,Very Positive,80%,70
-81127,Demolition Inc Trailer,None,None,None
+81127,Demolition Inc Trailer,0,0,0
 81134,Payday: The Heist Trailer,Very Positive,92%,"18,229"
-81136,Orcs Must Die Video,None,None,None
-81154,ROBT,None,None,None
-81155,A Game of Thrones-Genesis Official Trailer,None,None,None
-81059,Serious Sam 3 - Serious Chaos Trailer,None,None,None
-81063,Hard Reset Story Trailer,None,None,None
+81136,Orcs Must Die Video,0,0,0
+81154,ROBT,0,0,0
+81155,A Game of Thrones-Genesis Official Trailer,0,0,0
+81059,Serious Sam 3 - Serious Chaos Trailer,0,0,0
+81063,Hard Reset Story Trailer,0,0,0
 81065,The Baconing Launch Trailer,Mostly Positive,76%,89
-81067,GundeadliGne Gameplay Trailer,None,None,None
+81067,GundeadliGne Gameplay Trailer,0,0,0
 81068,Serious Sam Double D - Gameplay video,Very Positive,85%,437
 81069,Serious Sam Double D - Gunstacker Video,Very Positive,85%,437
-81077,Red Orchestra 2 Multiplayer Gameplay Trailer,None,None,None
+81077,Red Orchestra 2 Multiplayer Gameplay Trailer,0,0,0
 81087,Gatling Gears - Trailer,Mostly Positive,78%,74
-81093,Rock of Ages - Coming Soon Trailer,None,None,None
-81096,The Binding of Isaac Trailer,None,None,None
-81007,Doom 3 Final Trailer,None,None,None
-81008,Hard Reset Teaser,None,None,None
+81093,Rock of Ages - Coming Soon Trailer,0,0,0
+81096,The Binding of Isaac Trailer,0,0,0
+81007,Doom 3 Final Trailer,0,0,0
+81008,Hard Reset Teaser,0,0,0
 81011,Hitogata Happa Trailer,Very Positive,85%,127
 81012,GundeadiGne Trailer,Very Positive,84%,99
-81013,Rage Trailer,None,None,None
-81016,Civilization V - Ancient World DLC PEGI,None,None,None
+81013,Rage Trailer,0,0,0
+81016,Civilization V - Ancient World DLC PEGI,0,0,0
 81019,The Baconing Trailer,Mostly Positive,76%,89
-81020,EDGE Trailer,None,None,None
+81020,EDGE Trailer,0,0,0
 81021,Avadon: The Black Fortress Trailer,Very Positive,83%,273
-81022,Nuclear Dawn Trailer_1,None,None,None
-81024,Rage - Blake Griffin,None,None,None
-81025,Rage - Making of Wasteland,None,None,None
-81026,Dota 2 Teaser,None,None,None
-81027,Red Orchestra 2 Remembering Trailer,None,None,None
+81022,Nuclear Dawn Trailer_1,0,0,0
+81024,Rage - Blake Griffin,0,0,0
+81025,Rage - Making of Wasteland,0,0,0
+81026,Dota 2 Teaser,0,0,0
+81027,Red Orchestra 2 Remembering Trailer,0,0,0
 81028,Blocks That Move - Trailer 2,Very Positive,82%,357
-81029,Rage - Making of Legacy,None,None,None
-81030,Rage - Making of Arsenal,None,None,None
-81036,Rage - The Sound and The Art,None,None,None
-81039,Blocks That Matter - Trailer 1,None,None,None
+81029,Rage - Making of Legacy,0,0,0
+81030,Rage - Making of Arsenal,0,0,0
+81036,Rage - The Sound and The Art,0,0,0
+81039,Blocks That Matter - Trailer 1,0,0,0
 81040,The Baconing Gameplay Trailer,Mostly Positive,76%,89
 81041,Alien Hallway Trailer,Mostly Positive,70%,68
 81043,Hard Reset Trailer,Very Positive,83%,"2,846"
 81044,Gundemonium Recollection Promo Trailer,Very Positive,92%,104
-81047,Saints Row: The Third Luchadores Trailer,None,None,None
-80949,Saints Row: The Third Story Trailer,None,None,None
+81047,Saints Row: The Third Luchadores Trailer,0,0,0
+80949,Saints Row: The Third Story Trailer,0,0,0
 80950,Space Pirates and Zombies Trailer,Very Positive,93%,"1,683"
-80951,Mount and Blade - With Fire and Sword Trailer,None,None,None
-80952,Mount and Blade - Warband Trailer,None,None,None
-80953,Saints Row: The Third Developer Commentary Trailer,None,None,None
-80955,Chantelise Trailer,None,None,None
-80959,Serious Sam 3 Headless Kamikaze Trailer,None,None,None
+80951,Mount and Blade - With Fire and Sword Trailer,0,0,0
+80952,Mount and Blade - Warband Trailer,0,0,0
+80953,Saints Row: The Third Developer Commentary Trailer,0,0,0
+80955,Chantelise Trailer,0,0,0
+80959,Serious Sam 3 Headless Kamikaze Trailer,0,0,0
 80967,Metal Drift Game Play Trailer,Mostly Positive,73%,79
 80972,E.Y.E. Divine Cybermancy Gameplay Trailer 2,Very Positive,82%,"4,060"
 80973,Nancy Drew Captive Curse Trailer,Positive,86%,45
-80974,Dead Horde Trailer,None,None,None
+80974,Dead Horde Trailer,0,0,0
 80975,Fallout New Vegas: Old World Blues,Overwhelmingly Positive,95%,"49,456"
-80985,Nuclear Dawn Resources Tutorial,None,None,None
-80987,Dino D-Day Video,None,None,None
-80995,TRAUMA Trailer,None,None,None
-80996,Bastion Trailer,None,None,None
+80985,Nuclear Dawn Resources Tutorial,0,0,0
+80987,Dino D-Day Video,0,0,0
+80995,TRAUMA Trailer,0,0,0
+80996,Bastion Trailer,0,0,0
 80897,Might & Magic Heroes VI Beta Trailer,Mixed,46%,"4,889"
 80898,Might & Magic Heroes VI Beta PEGI Trailer,Mixed,46%,"4,889"
-80903,Jamestown Trailer,None,None,None
+80903,Jamestown Trailer,0,0,0
 80908,Sanctum Facility Trailer,Very Positive,90%,"1,643"
-80909,The Cat and the Coup Trailer,None,None,None
-80910,Solar 2 Trailer,None,None,None
-80912,Critical Mass Trailer,None,None,None
+80909,The Cat and the Coup Trailer,0,0,0
+80910,Solar 2 Trailer,0,0,0
+80912,Critical Mass Trailer,0,0,0
 80915,Beat Hazard Ultra Trailer,Overwhelmingly Positive,95%,"4,465"
-80918,Magicka PVP Trailer,None,None,None
+80918,Magicka PVP Trailer,0,0,0
 80921,Back to the Future Episode 5 Trailer,Very Positive,89%,"1,187"
-80922,Supreme Ruler 2020 Gold Trailer,None,None,None
-80923,Team Fortress 2: Meet the Medic,None,None,None
-80925,Trapped Dead Trailer,None,None,None
+80922,Supreme Ruler 2020 Gold Trailer,0,0,0
+80923,Team Fortress 2: Meet the Medic,0,0,0
+80925,Trapped Dead Trailer,0,0,0
 80928,Puzzle Agent 2 Trailer,Very Positive,87%,272
-80930,Rock of Ages - Humor Trailer,None,None,None
-80931,Rock of Ages - PowerUps Trailer,None,None,None
-80932,Rock of Ages - Rolling through the Ages Trailer,None,None,None
+80930,Rock of Ages - Humor Trailer,0,0,0
+80931,Rock of Ages - PowerUps Trailer,0,0,0
+80932,Rock of Ages - Rolling through the Ages Trailer,0,0,0
 80936,Sanctum 4-player Trailer,Very Positive,90%,"1,643"
-80937,Dungeons of Dreadmor Trailer,None,None,None
+80937,Dungeons of Dreadmor Trailer,0,0,0
 80938,Call of Duty - Black Ops Annihilation Trailer,Very Positive,85%,"3,955"
 80939,Breath of Death VII Trailer,Very Positive,84%,"1,034"
-80940,Cthulhu Saves the World Trailer,None,None,None
-80944,Lucid Gameplay Trailer,None,None,None
+80940,Cthulhu Saves the World Trailer,0,0,0
+80944,Lucid Gameplay Trailer,0,0,0
 80945,Defy Gravity Trailer,Very Positive,86%,"7,032"
 80947,Tobe's Vertical Adventure Trailer,Mostly Positive,71%,57
 80948,Legend of Fae Trailer,Very Positive,81%,79
-80843,Runespell Overture Teaser,None,None,None
+80843,Runespell Overture Teaser,0,0,0
 80852,Sanctum Glade Trailer,Very Positive,90%,"1,643"
 80872,Ancients of Ooga Trailer,Positive,81%,16
 80876,Battle vs. Chess Trailer,Mostly Positive,72%,473
-80879,The Witcher 2 Hope Trailer,None,None,None
-80883,Frozen Synapse Trailer,None,None,None
-80888,Serious Sam 3 BFE Teaser Trailer,None,None,None
+80879,The Witcher 2 Hope Trailer,0,0,0
+80883,Frozen Synapse Trailer,0,0,0
+80888,Serious Sam 3 BFE Teaser Trailer,0,0,0
 80893,E.Y.E Divine Cybermancy - Rotten Mound Trailer,Very Positive,82%,"4,060"
 80894,E.Y.E Divine Cybermancy - MOTRA Trailer,Very Positive,82%,"4,060"
 80896,LIMBO Trailer,Very Positive,93%,"14,117"
@@ -1212,79 +1212,79 @@ AppID,App Name,All Review,All Percent,All People
 80795,Monday Night Combat Tullys Trailer,Very Positive,80%,668
 80802,Still Life Trailer,Very Positive,81%,410
 80809,Hector Episode One Trailer,Very Positive,95%,67
-80812,The First Templar Gameplay Trailer PEGI,None,None,None
-80815,Nuclear Dawn Spring Teaser trailer,None,None,None
+80812,The First Templar Gameplay Trailer PEGI,0,0,0
+80815,Nuclear Dawn Spring Teaser trailer,0,0,0
 80816,Capsized Release Trailer,Very Positive,82%,477
-80817,Back to the Future Episode 4 Trailer,None,None,None
+80817,Back to the Future Episode 4 Trailer,0,0,0
 80819,EYE Trailer,Very Positive,82%,"4,060"
 80820,BEEP,Very Positive,84%,"4,138"
-80821,Dwarfs Trailer,None,None,None
+80821,Dwarfs Trailer,0,0,0
 80822,Portal 2 Remix Trailer,Overwhelmingly Positive,98%,"99,136"
-80824,Civ V DLC Denmark Trailer,None,None,None
-80825,Civ V DLC Explorers Map Pack Trailer,None,None,None
-80826,RFA Infestation Trailer,None,None,None
-80827,Syberia Trailer,None,None,None
-80828,Syberia II Trailer,None,None,None
-80837,Fortix 2 Trailer,None,None,None
-80838,Steel Storm Burning Retribution Trailer,None,None,None
+80824,Civ V DLC Denmark Trailer,0,0,0
+80825,Civ V DLC Explorers Map Pack Trailer,0,0,0
+80826,RFA Infestation Trailer,0,0,0
+80827,Syberia Trailer,0,0,0
+80828,Syberia II Trailer,0,0,0
+80837,Fortix 2 Trailer,0,0,0
+80838,Steel Storm Burning Retribution Trailer,0,0,0
 80840,WTCC 2010 Expansion,Mostly Positive,73%,15
 80738,Call of Duty - Black Ops Firsk Strike Trailer,Very Positive,85%,"3,955"
 80739,Portal 2 - Panels Short (English),Overwhelmingly Positive,98%,"99,136"
 80740,Portal 2 - Panels Short (French),Overwhelmingly Positive,98%,"99,132"
-80741,Portal 2 - Panels Short (german),None,None,None
+80741,Portal 2 - Panels Short (german),0,0,0
 80742,Portal 2 - Panels Short (Russian),Overwhelmingly Positive,98%,"99,132"
-80747,Portal 2 - Bot Trust Short (English),None,None,None
-80748,Portal 2 - Bot Trust Short (French),None,None,None
-80749,Portal 2 - Bot Trust Short (German),None,None,None
-80750,Portal 2 - Bot Trust Short (Russian),None,None,None
+80747,Portal 2 - Bot Trust Short (English),0,0,0
+80748,Portal 2 - Bot Trust Short (French),0,0,0
+80749,Portal 2 - Bot Trust Short (German),0,0,0
+80750,Portal 2 - Bot Trust Short (Russian),0,0,0
 80751,Kick It,Mostly Negative,30%,412
-80752,Portal 2 Turrets,None,None,None
-80756,Anomaly Warzone Earth Trailer,None,None,None
+80752,Portal 2 Turrets,0,0,0
+80756,Anomaly Warzone Earth Trailer,0,0,0
 80757,STCC The Game 2 Trailer,Positive,91%,12
 80759,GT Power Pack Trailer,Positive,83%,18
 80761,Magicka Vietnam Release Trailer,Very Positive,85%,90
-80762,Portal 2 - Boots Short (English),None,None,None
+80762,Portal 2 - Boots Short (English),0,0,0
 80763,Portal 2 - Boots Short (French),Overwhelmingly Positive,98%,"99,136"
-80764,Portal 2 - Boots Short (German),None,None,None
+80764,Portal 2 - Boots Short (German),0,0,0
 80765,Portal 2 - Boots Short (Russian),Overwhelmingly Positive,98%,"99,136"
 80766,Next Big Thing ESRB,Very Positive,84%,363
-80767,Next Big Thing French,None,None,None
+80767,Next Big Thing French,0,0,0
 80770,Kick It Portal,Mostly Negative,30%,412
 80773,Runaway Twist of Fate Trailer,Very Positive,84%,191
-80776,Universe Sandbox,None,None,None
+80776,Universe Sandbox,0,0,0
 80777,BIT.TRIP BEAT GLaDOS Invasion,Very Positive,83%,571
 80780,Scratches Trailer,Very Positive,82%,236
 80784,Section 8 Prejudice PC launch Trailer,Mostly Positive,76%,752
-80787,Red Faction Armageddon - Kara Trailer,None,None,None
-80788,Portal 2 - Launch TV Ad,None,None,None
+80787,Red Faction Armageddon - Kara Trailer,0,0,0
+80788,Portal 2 - Launch TV Ad,0,0,0
 80790,Majesty 2 Collection Trailer,Mostly Positive,73%,612
 80791,The Tiny Bang Story Trailer,Very Positive,88%,"2,389"
-80682,Civ V Polynesia Trailer,None,None,None
-80685,Revenge of the Titans trailer,None,None,None
+80682,Civ V Polynesia Trailer,0,0,0
+80685,Revenge of the Titans trailer,0,0,0
 80688,Shadow Harvest Trailer,Mostly Negative,26%,52
 80692,Might & Magic Heroes VI Trailer,Mixed,46%,"4,889"
 80694,Fractal Trailer,Mostly Positive,74%,43
-80706,Post Apocalyptic Mayhem Trailer,None,None,None
-80707,PAM Logger Intro,None,None,None
-80708,PAM Space Cowboy Intro,None,None,None
-80709,PAM Childhood Intro,None,None,None
-80737,HOARD ESRB Trailer,None,None,None
+80706,Post Apocalyptic Mayhem Trailer,0,0,0
+80707,PAM Logger Intro,0,0,0
+80708,PAM Space Cowboy Intro,0,0,0
+80709,PAM Childhood Intro,0,0,0
+80737,HOARD ESRB Trailer,0,0,0
 80633,Portal 2 Valentines,Overwhelmingly Positive,98%,"99,132"
 80634,CreaVures Trailer,Very Positive,82%,85
-80642,Assassins Creed Brotherhood - Multiplayer,None,None,None
-80643,Assassins Creed Brotherhood - Story,None,None,None
+80642,Assassins Creed Brotherhood - Multiplayer,0,0,0
+80643,Assassins Creed Brotherhood - Story,0,0,0
 80648,Cloning Clyde Trailer,Positive,87%,48
 80651,Sanctum Trailer,Very Positive,90%,"1,643"
-80654,FNV Dead Money - DLC,None,None,None
-80655,BIT.TRIP RUNNER Trailer,None,None,None
-80658,Dreamcast Collection Trailer (EN) (ESRB),None,None,None
+80654,FNV Dead Money - DLC,0,0,0
+80655,BIT.TRIP RUNNER Trailer,0,0,0
+80658,Dreamcast Collection Trailer (EN) (ESRB),0,0,0
 80659,Dreamcast Collection Trailer (IT),Very Positive,83%,651
-80661,Dreamcast Collection Trailer (ES),None,None,None
-80662,Dreamcast Collection Trailer (FR),None,None,None
-80663,Dreamcast Collection Trailer (DE),None,None,None
+80661,Dreamcast Collection Trailer (ES),0,0,0
+80662,Dreamcast Collection Trailer (FR),0,0,0
+80663,Dreamcast Collection Trailer (DE),0,0,0
 80670,ARMA II - CDF Trailer (ESRB),Very Positive,83%,"1,770"
-80572,The Sims 3 Trailer,None,None,None
-80573,The Sims 3 World Adventures Trailer,None,None,None
+80572,The Sims 3 Trailer,0,0,0
+80573,The Sims 3 World Adventures Trailer,0,0,0
 80574,The Sims 3 Ambitions Trailer,Very Positive,81%,"11,973"
 80575,The Sims 3 Late Night Trailer,Very Positive,81%,"11,973"
 80576,The Sims 3 High End Loft Stuff Trailer,Very Positive,81%,"11,974"
@@ -1295,54 +1295,54 @@ AppID,App Name,All Review,All Percent,All People
 80594,Monday Night Combat LaseRazor Trailer,Very Positive,80%,668
 80595,Monday Night Combat AmmoMule Trailer,Very Positive,80%,668
 80597,Atom Zombie Smasher Trailer,Very Positive,88%,761
-80606,Cities in Motion Trailer,None,None,None
+80606,Cities in Motion Trailer,0,0,0
 80607,Zeit2 Trailer,Mostly Positive,75%,20
 80608,Space Chem Trailer,Overwhelmingly Positive,96%,"1,768"
 80609,Space Chem How To Trailer,Overwhelmingly Positive,96%,"1,768"
-80561,Secret of the Magic Crystals Trailer,None,None,None
+80561,Secret of the Magic Crystals Trailer,0,0,0
 80562,EVE Online - Incursion,Mostly Positive,75%,"10,541"
 80564,Whos that flying 1 Trailer,Mostly Positive,71%,115
 80565,EU3 Divine Wind Trailer1,Very Positive,86%,927
 80566,EU3 Divine Wind Trailer2,Very Positive,86%,927
-80567,Magicka Trailer,None,None,None
+80567,Magicka Trailer,0,0,0
 80568,Dead Space 2 Trailer,Very Positive,94%,"7,422"
-80569,Dead Space 2 Gameplay Trailer,None,None,None
+80569,Dead Space 2 Gameplay Trailer,0,0,0
 80463,Diamon Dan ESRB Trailer,Positive,85%,27
 80465,Greed Corp Trailer,Very Positive,88%,304
-80467,Battlefield Bad Company 2 - VIP Map Pack 7,None,None,None
-80477,The First Templar - Trailer,None,None,None
-80493,Civ V DLC,None,None,None
+80467,Battlefield Bad Company 2 - VIP Map Pack 7,0,0,0
+80477,The First Templar - Trailer,0,0,0
+80493,Civ V DLC,0,0,0
 80494,Dive to the Titanic Trailer,Mostly Negative,36%,73
 80495,Munchs Oddysee Trailer,Mostly Positive,72%,533
 80496,Strangers Wrath Trailer,Very Positive,84%,759
-80497,Back to the Future Trailer,None,None,None
-80508,Drawn The Painted Tower Trailer,None,None,None
-80509,Drawn The Painted Tower Intro Trailer,None,None,None
+80497,Back to the Future Trailer,0,0,0
+80508,Drawn The Painted Tower Trailer,0,0,0
+80509,Drawn The Painted Tower Intro Trailer,0,0,0
 80514,APOX Trailer,Mostly Negative,23%,103
 80516,A.R.E.S. Extinction Agenda Trailer,Mostly Positive,70%,526
 80420,FS2011 Trailer,Very Positive,83%,332
-80422,Bloody Good Time Launch Trailer (DE),None,None,None
-80423,Bloody Good Time Launch Trailer (IT),None,None,None
-80424,Bloody Good Time Launch Trailer (ES),None,None,None
-80425,Bloody Good Time Launch Trailer (EN) PEGI,None,None,None
-80426,Bloody Good Time Launch Trailer (FR),None,None,None
+80422,Bloody Good Time Launch Trailer (DE),0,0,0
+80423,Bloody Good Time Launch Trailer (IT),0,0,0
+80424,Bloody Good Time Launch Trailer (ES),0,0,0
+80425,Bloody Good Time Launch Trailer (EN) PEGI,0,0,0
+80426,Bloody Good Time Launch Trailer (FR),0,0,0
 80427,BIT.TRIP BEAT Trailer,Very Positive,83%,571
 80429,Bejeweled 3 Trailer,Overwhelmingly Positive,95%,"1,389"
 80430,Pat & Mat Trailer,Very Positive,81%,249
-80433,Fish Fillets 2 Trailer,None,None,None
+80433,Fish Fillets 2 Trailer,0,0,0
 80438,Poker Night at the Inventory Trailer,Very Positive,86%,"5,307"
-80442,Archon Classic Trailer,None,None,None
+80442,Archon Classic Trailer,0,0,0
 80443,Clones Trailer,Mostly Positive,76%,275
-80444,Alien Breed 3 Trailer,None,None,None
+80444,Alien Breed 3 Trailer,0,0,0
 80445,Zen Bound 2 Trailer,Very Positive,90%,232
 80446,Blue Toad Murder Files Trailer,Positive,86%,38
-80447,The Witcher 2 Trailer,None,None,None
-80448,naild Trailer,None,None,None
-80449,Flight Control HD Trailer,None,None,None
-80455,Red Orchestra 2 - Heroes of Stalingrad,None,None,None
+80447,The Witcher 2 Trailer,0,0,0
+80448,naild Trailer,0,0,0
+80449,Flight Control HD Trailer,0,0,0
+80455,Red Orchestra 2 - Heroes of Stalingrad,0,0,0
 80457,Power of Defense Trailer,Mostly Negative,30%,23
-80461,ARMA2 PMC Trailer,None,None,None
-80462,RUSH Trailer,None,None,None
+80461,ARMA2 PMC Trailer,0,0,0
+80462,RUSH Trailer,0,0,0
 78000,Bejeweled 3,Overwhelmingly Positive,95%,"1,389"
 80000,APOX,Mostly Negative,23%,103
 80200,Fate of the World,Mostly Positive,79%,297
@@ -1353,7 +1353,7 @@ AppID,App Name,All Review,All Percent,All People
 80350,Blackwell Convergence,Very Positive,94%,219
 80360,Blackwell Deception,Very Positive,98%,211
 80401,Blood Bowl Legendary Edition,Mostly Positive,79%,556
-80404,MOH - Accolade 2,None,None,None
+80404,MOH - Accolade 2,0,0,0
 80411,AI War Children of Neinzul Trailer,Very Positive,87%,815
 73033,Magicka: Marshlands,Mostly Positive,75%,12
 73035,Magicka: Final Frontier,Mostly Positive,70%,17
@@ -2355,7 +2355,7 @@ AppID,App Name,All Review,All Percent,All People
 6910,Deus Ex: Game of the Year Edition,Very Positive,94%,"5,300"
 6940,Battlestations: Midway Multiplayer Demo,Mostly Positive,73%,317
 5968,X Superbox Trailer,Mostly Positive,73%,283
-5984,MX vs ATV Reflex Trailer,None,None,None
+5984,MX vs ATV Reflex Trailer,0,0,0
 5988,The Ball Launch Trailer 1,Mostly Positive,74%,596
 5994,Swords & Soldiers Trailer,Very Positive,90%,250
 6000,STAR WARS™ Republic Commando,Very Positive,94%,"5,584"
@@ -2368,79 +2368,79 @@ AppID,App Name,All Review,All Percent,All People
 6090,Armed and Dangerous,Very Positive,88%,109
 6120,Shank,Very Positive,89%,"1,090"
 6129,Shank pre-order,Very Positive,89%,"1,090"
-5908,Call of Duty - Black OPS Trailer,None,None,None
-5910,Call of Duty - Black OPS Multiplayer Teaser,None,None,None
+5908,Call of Duty - Black OPS Trailer,0,0,0
+5910,Call of Duty - Black OPS Multiplayer Teaser,0,0,0
 5911,vvvvvv Trailer,Overwhelmingly Positive,96%,"3,997"
-5912,MOH - Fallen Angel,None,None,None
+5912,MOH - Fallen Angel,0,0,0
 5922,NyxQuest Trailer,Very Positive,91%,79
-5927,Chime01,None,None,None
-5928,chime03Tutorial,None,None,None
-5929,chime03Markus,None,None,None
+5927,Chime01,0,0,0
+5928,chime03Tutorial,0,0,0
+5929,chime03Markus,0,0,0
 5932,Alien Breed 2 Trailer,Mostly Positive,77%,180
-5934,Bloody Good Time Clown Trailer (EN),None,None,None
+5934,Bloody Good Time Clown Trailer (EN),0,0,0
 5939,Star Ruler - Trailer,Very Positive,86%,209
-5940,MOH - Part 4,None,None,None
-5941,MOH - Part 3,None,None,None
-5942,MOH - Part 2,None,None,None
-5945,MOH - Part 5,None,None,None
+5940,MOH - Part 4,0,0,0
+5941,MOH - Part 3,0,0,0
+5942,MOH - Part 2,0,0,0
+5945,MOH - Part 5,0,0,0
 5946,Lost Horizon Trailer,Very Positive,90%,194
-5951,Shank Trailer,None,None,None
-5952,Left 4 Dead - The Sacrifice Teaser,None,None,None
+5951,Shank Trailer,0,0,0
+5952,Left 4 Dead - The Sacrifice Teaser,0,0,0
 5959,Polynomial Trailer 2,Mostly Positive,76%,395
-5869,Puzzle Quest 2 Trailer,None,None,None
+5869,Puzzle Quest 2 Trailer,0,0,0
 5874,Ziro Trailer,Mostly Positive,73%,23
-5882,SimCity 4 - Rush Hour Expansion Pack Trailer,None,None,None
+5882,SimCity 4 - Rush Hour Expansion Pack Trailer,0,0,0
 5885,Cossacks Trailer,Very Positive,87%,"1,031"
 5887,swarmArena,Mostly Positive,78%,47
-5888,ARMA II - British Armed Force Trailer,None,None,None
+5888,ARMA II - British Armed Force Trailer,0,0,0
 5897,Dead Rising 2 Trailer,Mostly Positive,74%,"2,511"
 5902,BladeKittenTrailer 2,Very Positive,83%,731
-5903,chime04,None,None,None
+5903,chime04,0,0,0
 5802,Moon Base Alpha Trailer,Very Positive,89%,"10,854"
-5803,Darwinia_ESRB,None,None,None
+5803,Darwinia_ESRB,0,0,0
 5804,4elements_moive,Very Positive,85%,484
-5805,Eschalon_book2,None,None,None
-5809,Future Wars Trailer,None,None,None
+5805,Eschalon_book2,0,0,0
+5809,Future Wars Trailer,0,0,0
 5815,Chaser Trailer,Mostly Positive,76%,626
-5817,Medal of Honor - Limited Edition,None,None,None
-5818,Medal of Honor - WOLF,None,None,None
-5822,Medal of Honor - E3MP,None,None,None
+5817,Medal of Honor - Limited Edition,0,0,0
+5818,Medal of Honor - WOLF,0,0,0
+5822,Medal of Honor - E3MP,0,0,0
 5823,Tidalis Launch Trailer,Mostly Positive,70%,79
 5824,Tidalis Extended Trailer,Mostly Positive,70%,79
-5825,Alien Swarm Gameplay Video,None,None,None
+5825,Alien Swarm Gameplay Video,0,0,0
 5833,The Guild 2: Renaissance Trailer,Mostly Positive,79%,"1,972"
-5837,Mafia II - Boom Boom,None,None,None
-5838,Mafia II - E3 Trailer,None,None,None
-5839,Worms Reloaded Trailer 2,None,None,None
+5837,Mafia II - Boom Boom,0,0,0
+5838,Mafia II - E3 Trailer,0,0,0
+5839,Worms Reloaded Trailer 2,0,0,0
 5840,Lara Croft Guardian of Light Trailer 2 (PEGI),Very Positive,92%,"1,884"
 5841,DC Universe Online - E3 Trailer,Mostly Positive,79%,"12,529"
-5779,Razor2 Trailer,None,None,None
-5785,X3 Terran Conflict Trailer 2.6,None,None,None
-5793,Alien Breed Impact Co-op Trailer,None,None,None
-5794,Arma 2 - Operation Arrowhead Trailer 2,None,None,None
+5779,Razor2 Trailer,0,0,0
+5785,X3 Terran Conflict Trailer 2.6,0,0,0
+5793,Alien Breed Impact Co-op Trailer,0,0,0
+5794,Arma 2 - Operation Arrowhead Trailer 2,0,0,0
 5796,Sacrobar Trailer,Mostly Negative,35%,17
-5797,Sniper Ghost Warrior Basic Tactics,None,None,None
+5797,Sniper Ghost Warrior Basic Tactics,0,0,0
 5798,Puzzle Agent Trailer,Very Positive,87%,883
 5696,Iron Grip Warlord Trailer,Very Positive,87%,207
 5698,Max and the Magic Marker,Positive,84%,26
 5706,Guns Of Icarus 1,Mostly Negative,38%,213
 5713,Super Meat Boy Trailer 2,Very Positive,94%,"17,780"
-5714,Sniper Ghost Warrior Trailer 3,None,None,None
-5716,Sniper Ghost Warrior Trailer 1.1,None,None,None
-5717,Sniper Ghost Warrior Trailer 2.1,None,None,None
-5718,Lara Croft Announce Trailer 1,None,None,None
+5714,Sniper Ghost Warrior Trailer 3,0,0,0
+5716,Sniper Ghost Warrior Trailer 1.1,0,0,0
+5717,Sniper Ghost Warrior Trailer 2.1,0,0,0
+5718,Lara Croft Announce Trailer 1,0,0,0
 5721,Napoleon: Total War - Peninsular Campaign,Very Positive,88%,"4,784"
-5722,Alien Swarm Launch Video,None,None,None
-5724,Free Yourself - 5.26.2010,None,None,None
-5728,Arma 2 - Operation Arrowhead Trailer,None,None,None
+5722,Alien Swarm Launch Video,0,0,0
+5724,Free Yourself - 5.26.2010,0,0,0
+5728,Arma 2 - Operation Arrowhead Trailer,0,0,0
 5729,Ziro Steam Trailer,Mostly Positive,73%,23
 5730,eversion Trailer,Very Positive,91%,840
 5731,Jolly Rover Trailer,Very Positive,88%,182
-5734,Team Fortress 2 - Mac Trailer,None,None,None
-5735,Alien Breed Impact Trailer 1.1,None,None,None
-5738,Fallout New Vegas trailer,None,None,None
+5734,Team Fortress 2 - Mac Trailer,0,0,0
+5735,Alien Breed Impact Trailer 1.1,0,0,0
+5738,Fallout New Vegas trailer,0,0,0
 5742,Puzzle Dimension trailer,Very Positive,91%,403
-5743,Red Faction Armageddon Trailer,None,None,None
+5743,Red Faction Armageddon Trailer,0,0,0
 5648,Serious Sam HD The Second Encounter Announcement Video,Very Positive,96%,63
 5649,The Misadventures of P.B. Winterbottom Trailer,Very Positive,89%,299
 5650,Lead and Gold Launch Trailer,Mostly Positive,72%,743
@@ -2449,39 +2449,39 @@ AppID,App Name,All Review,All Percent,All People
 5653,Supreme Commander 2 Multiplayer Trailer,Very Positive,84%,"3,399"
 5654,Supreme Commander 2 Story Final Trailer,Very Positive,84%,"3,399"
 5655,Supreme Commander 2 Tech and Strategy Trailer,Very Positive,84%,"3,399"
-5656,Grand Theft Auto - Episodes from Liberty City Trailer,None,None,None
+5656,Grand Theft Auto - Episodes from Liberty City Trailer,0,0,0
 5663,Wings of Luftwaffe Trailer,Mostly Negative,29%,24
-5664,ArmA II CDF Trailer,None,None,None
-5665,ArmA II NAPA Trailer,None,None,None
-5674,Aquanox Trailer,None,None,None
+5664,ArmA II CDF Trailer,0,0,0
+5665,ArmA II NAPA Trailer,0,0,0
+5674,Aquanox Trailer,0,0,0
 5675,Aquanox2 Trailer,Mostly Positive,76%,101
-5676,Trine Path To New Dawn Trailer,None,None,None
+5676,Trine Path To New Dawn Trailer,0,0,0
 5687,Altitude_Gameplay_April2010,Very Positive,92%,"1,661"
 5688,Serious Sam HD The Second Encounter Launch Video,Very Positive,96%,63
-5689,Serious Sam HD The Second Encounter - House of Sam Video,None,None,None
-5690,Sid Meiers Civilization V Teaser,None,None,None
+5689,Serious Sam HD The Second Encounter - House of Sam Video,0,0,0
+5690,Sid Meiers Civilization V Teaser,0,0,0
 5694,FEAR - E3 Trailer,Very Positive,94%,"4,318"
 5695,FEAR - Teaser Trailer,Very Positive,94%,"4,318"
 5596,Cake Mania Main Street Trailer,Mostly Positive,72%,18
 5597,Westward IV Trailer,Positive,90%,11
-5605,Shatter Trailer,None,None,None
-5606,Super Laser Racer Trailer,None,None,None
+5605,Shatter Trailer,0,0,0
+5606,Super Laser Racer Trailer,0,0,0
 5608,Supreme Commander 2 Colossus Trailer,Very Positive,84%,"3,399"
 5610,Supreme Commander 2 Pulinsmash,Very Positive,84%,"3,399"
 5611,Supreme Commander 2 Bomb Bouncer Unit Trailer,Very Positive,84%,"3,399"
 5612,Supreme Commander 2 AC1000 Unit Trailer,Very Positive,84%,"3,399"
 5617,Borderlands The Secret Armory of General Knoxx,Very Positive,80%,250
-5631,Silent Hunter 5 - Launch Trailer,None,None,None
+5631,Silent Hunter 5 - Launch Trailer,0,0,0
 5635,Sol Survivor Trailer 2,Very Positive,90%,226
-5636,Command and Conquer 4 Cinematics Trailer,None,None,None
-5637,Command and Conquer 4 Multiplayer Trailer,None,None,None
+5636,Command and Conquer 4 Cinematics Trailer,0,0,0
+5637,Command and Conquer 4 Multiplayer Trailer,0,0,0
 5638,Dragon Age Origins Awakening Launch Trailer,Very Positive,92%,88
 5550,Dragon Age Origins Awakening Trailer,Very Positive,92%,88
 5552,Supreme Commander 2 Trailer,Very Positive,84%,"3,399"
 5564,Lego Indiana Jones 2 Trailer,Mostly Positive,71%,163
 5570,Aliens vs. Predator Classic 2000 Trailer,Very Positive,86%,"1,428"
-5573,Warnings at Waverly Academy Trailer,None,None,None
-5578,Silent Hunter V - Dynamic Campaign Trailer,None,None,None
+5573,Warnings at Waverly Academy Trailer,0,0,0
+5578,Silent Hunter V - Dynamic Campaign Trailer,0,0,0
 5579,Mass Effect 2 Launch Trailer,Overwhelmingly Positive,95%,"9,379"
 5581,Toki Tori Trailer,Very Positive,88%,"1,402"
 5582,Sonic and SEGA All-Stars Racing Trailer,Mostly Positive,78%,515
@@ -2489,8 +2489,8 @@ AppID,App Name,All Review,All Percent,All People
 5589,Aliens vs. Predator Story Trailer,Very Positive,87%,"6,876"
 5487,SpellForce Platinum Trailer,Very Positive,83%,696
 5488,Devil May Cry 4,Very Positive,91%,"1,398"
-5489,Left 4 Dead 2 - TV Spot 2,None,None,None
-5494,King Arthur Trailer,None,None,None
+5489,Left 4 Dead 2 - TV Spot 2,0,0,0
+5494,King Arthur Trailer,0,0,0
 5495,Altitude Trailer,Very Positive,92%,"1,661"
 5502,Kings Bounty Armored Princess Trailer,Very Positive,89%,406
 5505,AI War Trailer with Sound,Very Positive,87%,815
@@ -2498,47 +2498,47 @@ AppID,App Name,All Review,All Percent,All People
 5514,Serious Sam HD Release Trailer,Very Positive,93%,"3,108"
 5515,Borderlands Zombie Island DLC Trailer,Very Positive,93%,"14,570"
 5518,Mass Effect 2 Trailer,Overwhelmingly Positive,95%,"9,379"
-5522,Fallout 3 Operation Achorage Trailer,None,None,None
-5523,Fallout 3 Broken Steel Trailer,None,None,None
-5524,Fallout 3 Mothership Zeta Trailer,None,None,None
-5525,Fallout 3 Point Lookout Trailer,None,None,None
-5526,Fallout 3 Bloodless Trailer,None,None,None
+5522,Fallout 3 Operation Achorage Trailer,0,0,0
+5523,Fallout 3 Broken Steel Trailer,0,0,0
+5524,Fallout 3 Mothership Zeta Trailer,0,0,0
+5525,Fallout 3 Point Lookout Trailer,0,0,0
+5526,Fallout 3 Bloodless Trailer,0,0,0
 5536,Napoleon Trailer - Story Mode,Very Positive,88%,"4,784"
 5537,Europa Universalis III Heir to the Throne Trailer,Positive,87%,16
-5538,ARMA II Eagle Wing Trailer,None,None,None
+5538,ARMA II Eagle Wing Trailer,0,0,0
 5541,Zero Gear Trailer,Very Positive,80%,297
-5409,Modern Warfare 2 - Reveal Trailer,None,None,None
-5410,Modern Warfare 2 - MultiPlayer Trailer,None,None,None
-5411,Modern Warfare 2 - Gameplay Trailer,None,None,None
-5414,Need for Speed SHIFT Trailer,None,None,None
-5415,Command & Conquer Red Alert 3 Uprising Trailer,None,None,None
-5416,MOHA Trailer,None,None,None
-5422,Borderlands Trailer,None,None,None
+5409,Modern Warfare 2 - Reveal Trailer,0,0,0
+5410,Modern Warfare 2 - MultiPlayer Trailer,0,0,0
+5411,Modern Warfare 2 - Gameplay Trailer,0,0,0
+5414,Need for Speed SHIFT Trailer,0,0,0
+5415,Command & Conquer Red Alert 3 Uprising Trailer,0,0,0
+5416,MOHA Trailer,0,0,0
+5422,Borderlands Trailer,0,0,0
 5424,Metal Drift Trailer,Mostly Positive,73%,79
-5445,Dragon Age Origins Main Trailer,None,None,None
+5445,Dragon Age Origins Main Trailer,0,0,0
 5446,Dragon Age Origins Gameplay Trailer,Very Positive,93%,"5,489"
-5447,Dragon Age Origins Stone Prisoner Trailer,None,None,None
+5447,Dragon Age Origins Stone Prisoner Trailer,0,0,0
 5449,Dragon Age Origins Blood Dragon Armor Trailer,Very Positive,93%,"5,489"
-5451,Dragon Age Origins Sacred Ashes_2 Trailer,None,None,None
+5451,Dragon Age Origins Sacred Ashes_2 Trailer,0,0,0
 5453,AI War Trailer,Very Positive,87%,815
 5456,Massive Assault Phantom Renaissance Trailer,Positive,83%,12
 5459,Dangerous High Schools in Trouble Trailer,Mostly Positive,75%,91
-5461,Torchlight Alchemist Trailer,None,None,None
-5462,Torchlight Vanquisher Trailer,None,None,None
-5463,Torchlight Destroyer Trailer,None,None,None
+5461,Torchlight Alchemist Trailer,0,0,0
+5462,Torchlight Vanquisher Trailer,0,0,0
+5463,Torchlight Destroyer Trailer,0,0,0
 5465,AvP - Alien Gameplay,Very Positive,87%,"6,876"
 5467,Aztaka Trailer,Mostly Positive,72%,87
 5468,Men of War Red Tide Trailer,Very Positive,81%,267
-5470,Modern Warfare 2 Infamy Trailer,None,None,None
-5472,Zombie Bowl-O-Rama Trailer,None,None,None
+5470,Modern Warfare 2 Infamy Trailer,0,0,0
+5472,Zombie Bowl-O-Rama Trailer,0,0,0
 5475,Serious Sam HD Trailer,Very Positive,93%,"3,108"
-5478,Command and Conquer 3 Tiberium Wars Trailer,None,None,None
-5481,Command and Conquer 3 Kanes Wrath Trailer,None,None,None
-5341,Trine Trailer 4,None,None,None
+5478,Command and Conquer 3 Tiberium Wars Trailer,0,0,0
+5481,Command and Conquer 3 Kanes Wrath Trailer,0,0,0
+5341,Trine Trailer 4,0,0,0
 5347,Batman Arkham Asylum Gadgets Trailer,Overwhelmingly Positive,95%,"11,609"
 5348,Batman Arkham Asylum Demo Trailer,Overwhelmingly Positive,95%,"11,609"
 5360,Mini Ninjas - Gameplay Trailer (EU),Very Positive,86%,"1,083"
-5365,Assassins Creed 2 Developer Diary,None,None,None
+5365,Assassins Creed 2 Developer Diary,0,0,0
 5369,Call of Juarez Bound in Blood - Feature Trailer,Very Positive,81%,"1,165"
 5374,World of Zoo Trailer,Mostly Positive,77%,100
 5376,Mini Ninjas - Kunoichi Trailer (EU),Very Positive,86%,"1,083"
@@ -2552,32 +2552,32 @@ AppID,App Name,All Review,All Percent,All People
 5286,Oblivion Game of the Year Edition Trailer,Very Positive,94%,"11,100"
 5288,Prototype Launch Trailer,Very Positive,80%,"3,879"
 5289,Prototype Intro,Very Positive,80%,"3,879"
-5293,ARMA 2 USMC Trailer,None,None,None
-5294,ARMA 2 In Game Footage,None,None,None
-5295,ARMA 2 Citizens Trailer,None,None,None
+5293,ARMA 2 USMC Trailer,0,0,0
+5294,ARMA 2 In Game Footage,0,0,0
+5295,ARMA 2 Citizens Trailer,0,0,0
 5297,Call of Juarez 2: Brothers Trailer,Very Positive,81%,"1,165"
-5300,Trine Teaser Trailer,None,None,None
-5301,Trine Trailer,None,None,None
+5300,Trine Teaser Trailer,0,0,0
+5301,Trine Trailer,0,0,0
 5305,Team Fortress 2: Meet the Spy (Russian),Very Positive,93%,"538,219"
-5234,Grand Ages Rome - City Building Trailer,None,None,None
-5238,RFG Tools of Destruction 1,None,None,None
-5239,RFG Tools of Destruction 2,None,None,None
-5240,RFG Tools of Destruction 3,None,None,None
-5241,RFG Tools of Destruction 4,None,None,None
-5243,Killing Floor Trailer,None,None,None
-5244,Hearts of Iron III Trailer,None,None,None
+5234,Grand Ages Rome - City Building Trailer,0,0,0
+5238,RFG Tools of Destruction 1,0,0,0
+5239,RFG Tools of Destruction 2,0,0,0
+5240,RFG Tools of Destruction 3,0,0,0
+5241,RFG Tools of Destruction 4,0,0,0
+5243,Killing Floor Trailer,0,0,0
+5244,Hearts of Iron III Trailer,0,0,0
 5249,Call of Juarez: Bound in Blood Story Trailer,Very Positive,81%,"1,165"
-5250,RFG Dev Diary,None,None,None
+5250,RFG Dev Diary,0,0,0
 5253,Call of Duty: World at War - Map Pack,Very Positive,92%,"16,722"
-5254,Call of Duty: World at War - Verruckt,None,None,None
-5259,Red Faction: Guerrilla Tactics Trailer,None,None,None
+5254,Call of Duty: World at War - Verruckt,0,0,0
+5259,Red Faction: Guerrilla Tactics Trailer,0,0,0
 5260,Team Fortress 2: Meet the Spy,Very Positive,93%,"538,217"
-5261,ARMA 2 Trailer,None,None,None
-5262,Prototype Reveal Trailer,None,None,None
+5261,ARMA 2 Trailer,0,0,0
+5262,Prototype Reveal Trailer,0,0,0
 5263,Prototype Story Montage,Very Positive,80%,"3,879"
 5281,Mini Ninjas E3 Trailer,Very Positive,86%,"1,083"
-5282,Assassins Creed 2 E3 Trailer,None,None,None
-5177,Command and Conquer: Red Alert 3 Trailer 2,None,None,None
+5282,Assassins Creed 2 E3 Trailer,0,0,0
+5177,Command and Conquer: Red Alert 3 Trailer 2,0,0,0
 5185,Empire: Total War - Naval Battles,Very Positive,88%,"7,929"
 5186,Empire: Total War - Land Battles,Very Positive,88%,"7,929"
 5187,Empire: Total War - Campaign,Very Positive,88%,"7,929"
@@ -2595,56 +2595,56 @@ AppID,App Name,All Review,All Percent,All People
 5202,Empire: Total War Launch Trailer (Spanish),Very Positive,88%,"7,929"
 5203,Empire: Total War Launch Trailer (UK),Very Positive,88%,"7,929"
 5204,Unreal Tournament 3 Titan Trailer,Very Positive,89%,"1,673"
-5205,Zeno Clash Trailer,None,None,None
+5205,Zeno Clash Trailer,0,0,0
 5207,EVE Online: Apocrypha - 1080p,Mostly Positive,75%,"10,541"
 5209,The Path Trailer,Mostly Positive,75%,535
-5211,Caster Trailer,None,None,None
+5211,Caster Trailer,0,0,0
 5213,The Maw - River Redirect Trailer,Very Positive,80%,151
 5214,Drakensang Trailer,Mostly Positive,77%,210
-5217,Obulis Trailer,None,None,None
+5217,Obulis Trailer,0,0,0
 5218,Osmos Trailer,Very Positive,90%,364
 5219,FLOCK! Trailer 1,Mostly Positive,76%,115
 5220,FLOCK! Trailer 2,Mostly Positive,76%,115
 5123,Fallout 3 Gameplay 5: Tenpenny Tower,Mostly Positive,78%,"10,391"
-5124,Far Cry 2: Anything Goes,None,None,None
+5124,Far Cry 2: Anything Goes,0,0,0
 5125,Far Cry 2: Whos Who,Mostly Positive,75%,"5,914"
 5127,X3: Terran Conflict Intro Trailer,Very Positive,85%,"1,304"
 5128,X3: Terran Conflict Think,Very Positive,85%,"1,304"
 5129,X3: Terran Conflict - Think (German),Very Positive,85%,"1,304"
 5130,X3: Terran Conflict - Trade,Very Positive,85%,"1,304"
 5131,X3: Terran Conflict - Trade (German),Very Positive,85%,"1,304"
-5132,Red Faction: Guerrila Multiplayer Gameplay,None,None,None
+5132,Red Faction: Guerrila Multiplayer Gameplay,0,0,0
 5136,Empire: Total War Trailer,Very Positive,88%,"7,929"
 5137,Multiwinia Offical Trailer,Very Positive,82%,288
-5138,Left 4 Dead TV Spot 1 - 1080p,None,None,None
-5139,Left 4 Dead TV Spot 1 - 720p,None,None,None
+5138,Left 4 Dead TV Spot 1 - 1080p,0,0,0
+5139,Left 4 Dead TV Spot 1 - 720p,0,0,0
 5140,X3: Terran Conflict - Build,Very Positive,85%,"1,304"
-5141,Left 4 Dead Intro,None,None,None
-5142,Left 4 Dead Intro (French),None,None,None
-5143,Left 4 Dead Intro (German),None,None,None
-5144,Left 4 Dead Intro (Russian),None,None,None
+5141,Left 4 Dead Intro,0,0,0
+5142,Left 4 Dead Intro (French),0,0,0
+5143,Left 4 Dead Intro (German),0,0,0
+5144,Left 4 Dead Intro (Russian),0,0,0
 5145,Left 4 Dead Intro (Spanish),Very Positive,94%,"12,732"
 5146,"On the Rain-Slick Precipice of Darkness, Episode Two Trailer",Very Positive,87%,98
-5147,Call of Duty: World at War Trailer,None,None,None
-5149,Left 4 Dead TV Spot 2 - 720p,None,None,None
-5150,Left 4 Dead TV Spot 2 - 1080p,None,None,None
-5153,Defense Grid Trailer,None,None,None
+5147,Call of Duty: World at War Trailer,0,0,0
+5149,Left 4 Dead TV Spot 2 - 720p,0,0,0
+5150,Left 4 Dead TV Spot 2 - 1080p,0,0,0
+5153,Defense Grid Trailer,0,0,0
 5157,Prince of Persia Launch Trailer,Mostly Positive,77%,"1,045"
-5159,Mass Effect Trailer,None,None,None
-5160,Command and Conquer: Red Alert 3,None,None,None
+5159,Mass Effect Trailer,0,0,0
+5160,Command and Conquer: Red Alert 3,0,0,0
 5162,Mirrors Edge Trailer,Very Positive,87%,"14,483"
 5163,Dead Space Trailer,Very Positive,90%,"6,925"
 5164,Spore Creepy and Cute Trailer,Very Positive,81%,500
-5165,Company of Heroes: Tales of Valor Trailer,None,None,None
+5165,Company of Heroes: Tales of Valor Trailer,0,0,0
 5166,Aquaria Trailer,Very Positive,91%,472
 5167,Strong Bad Episode 5: 8-Bit Is Enough Trailer,Very Positive,91%,170
 5168,Strong Bad Episode 3: Baddest of the Bands Trailer,Very Positive,91%,170
 5169,Strong Bad Episode 4: Dangeresque 3 Trailer,Very Positive,91%,170
 5170,Strong Bad Episode 2: Strong Badia the Free Trailer,Very Positive,91%,170
-5073,Team Fortress 2: Meet the Sandvich,None,None,None
-5076,Far Cry 2: E3 Gameplay,None,None,None
-5077,Far Cry 2: Enemies,None,None,None
-5078,Far Cry 2 GamePlay Movie,None,None,None
+5073,Team Fortress 2: Meet the Sandvich,0,0,0
+5076,Far Cry 2: E3 Gameplay,0,0,0
+5077,Far Cry 2: Enemies,0,0,0
+5078,Far Cry 2 GamePlay Movie,0,0,0
 5080,GTR Evolution Trailer,Positive,86%,44
 5081,Multiwinia: King of the Hill Trailer,Very Positive,82%,288
 5082,Multiwinia: Capture the Statue Trailer,Very Positive,82%,288
@@ -2654,8 +2654,8 @@ AppID,App Name,All Review,All Percent,All People
 5086,Crysis Wars Trailer,Very Positive,83%,"1,757"
 5087,Multiwinia: Rocket Riot,Very Positive,82%,288
 5088,Multiwinia: Blitzkrieg,Very Positive,82%,288
-5089,The Witcher: Enhanced Trailer,None,None,None
-5090,Team Fortress 2: Meet the Soldier (Russian),None,None,None
+5089,The Witcher: Enhanced Trailer,0,0,0
+5090,Team Fortress 2: Meet the Soldier (Russian),0,0,0
 5091,Team Fortress 2: Meet the Demoman (Russian),Very Positive,93%,"538,219"
 5092,Multiwinia: Assault Trailer,Very Positive,82%,288
 5094,Prince of Persia Trailer,Mostly Positive,77%,"1,045"
@@ -2663,8 +2663,8 @@ AppID,App Name,All Review,All Percent,All People
 5097,STCC: The Game Trailer,Positive,81%,11
 5105,Age of Booty Trailer,Mostly Negative,35%,164
 5109,D.I.P.R.I.P. Warm Up Trailer,Mostly Positive,79%,317
-5112,Team Fortress 2: Meet the Engineer (Russian),None,None,None
-5114,Mare Nostrum Trailer,None,None,None
+5112,Team Fortress 2: Meet the Engineer (Russian),0,0,0
+5114,Mare Nostrum Trailer,0,0,0
 5115,Saint's Row 2 Trailer,Mostly Positive,76%,"5,724"
 5117,Fallout 3 Trailer,Mostly Positive,78%,"10,391"
 5118,Fallout 3 Teaser,Mostly Positive,78%,"10,391"
@@ -2676,13 +2676,13 @@ AppID,App Name,All Review,All Percent,All People
 5022,Overlord: Raising Hell Trailer,Very Positive,91%,711
 5024,Rainbox Six: Vegas 2 Trailer,Very Positive,84%,"2,500"
 5028,Unreal Tournament 3 Trailer,Very Positive,89%,"1,673"
-5030,Assassin's Creed Trailer,None,None,None
-5031,TrackMania Nations Forever Trailer,None,None,None
-5032,Team Fortress 2: Meet the Scout,None,None,None
-5033,Team Fortress 2: Meet the Scout (French),None,None,None
-5034,Team Fortress 2: Meet the Scout (German),None,None,None
-5035,Team Fortress 2: Meet the Scout (Russian),None,None,None
-5036,Team Fortress 2: Meet the Scout (Spanish),None,None,None
+5030,Assassin's Creed Trailer,0,0,0
+5031,TrackMania Nations Forever Trailer,0,0,0
+5032,Team Fortress 2: Meet the Scout,0,0,0
+5033,Team Fortress 2: Meet the Scout (French),0,0,0
+5034,Team Fortress 2: Meet the Scout (German),0,0,0
+5035,Team Fortress 2: Meet the Scout (Russian),0,0,0
+5036,Team Fortress 2: Meet the Scout (Spanish),0,0,0
 5038,Sam & Max 201 Trailer,Very Positive,92%,71
 5043,Trials 2: Second Edition Trailer,Very Positive,83%,193
 5044,Trials 2: Second Edition: Bumps' N Bruises,Very Positive,83%,193
@@ -2690,19 +2690,19 @@ AppID,App Name,All Review,All Percent,All People
 5046,Trials 2: Second Edition: Throttle to the Max,Very Positive,83%,193
 5047,TrackMania United Forever Trailer,Very Positive,94%,813
 5049,On the Rain-Slick Precipice of Darkness - Episode One Trailer,Very Positive,93%,278
-5051,Team Fortress 2: Meet the Sniper,None,None,None
-5052,Far Cry 2 Trailer,None,None,None
+5051,Team Fortress 2: Meet the Sniper,0,0,0
+5052,Far Cry 2 Trailer,0,0,0
 5054,Brothers in Arms: Hells Highway Trailer 1,Very Positive,89%,815
 5055,Brothers in Arms: Hells Highway Trailer 2,Very Positive,89%,815
-5056,Team Fortress 2: Meet the Sniper (French),None,None,None
-5057,Team Fortress 2: Meet the Sniper (German),None,None,None
-5058,Team Fortress 2: Meet the Soldier (French),None,None,None
-5059,Team Fortress 2: Meet the Soldier (German),None,None,None
-5062,Team Fortress 2: Meet the Sniper (Russian),None,None,None
-5063,Team Fortress 2: Meet the Sniper (Spanish),None,None,None
+5056,Team Fortress 2: Meet the Sniper (French),0,0,0
+5057,Team Fortress 2: Meet the Sniper (German),0,0,0
+5058,Team Fortress 2: Meet the Soldier (French),0,0,0
+5059,Team Fortress 2: Meet the Soldier (German),0,0,0
+5062,Team Fortress 2: Meet the Sniper (Russian),0,0,0
+5063,Team Fortress 2: Meet the Sniper (Spanish),0,0,0
 5064,FlatOut: Ultimate Carnage Trailer,Very Positive,82%,"1,966"
 5068,Multiwinia: Domination Trailer,Very Positive,82%,288
-5069,Red Faction: Guerrilla Destruction Trailer,None,None,None
+5069,Red Faction: Guerrilla Destruction Trailer,0,0,0
 4580,"Warhammer 40,000: Dawn of War - Dark Crusade",Overwhelmingly Positive,95%,"2,259"
 4700,Medieval II: Total War,Very Positive,94%,"7,196"
 4710,Medieval II: Total War Demo,Very Positive,94%,"7,196"
@@ -2720,8 +2720,8 @@ AppID,App Name,All Review,All Percent,All People
 4932,Natural Selection 2 - Deluxe DLC,Very Positive,85%,"6,089"
 5000,Painkiller Overdose Teaser,Mostly Positive,74%,398
 5001,Overlord Trailer,Very Positive,93%,"2,539"
-5015,Team Fortress 2: Meet the Heavy (German),None,None,None
-5016,Team Fortress 2: Meet the Heavy (French),None,None,None
+5015,Team Fortress 2: Meet the Heavy (German),0,0,0
+5016,Team Fortress 2: Meet the Heavy (French),0,0,0
 3830,Psychonauts,Overwhelmingly Positive,96%,"4,577"
 3900,Sid Meier's Civilization IV,Very Positive,92%,"1,002"
 3910,Sid Meier's Civilization III: Complete,Very Positive,89%,"1,659"
@@ -2864,50 +2864,50 @@ AppID,App Name,All Review,All Percent,All People
 1200,Red Orchestra: Ostfront 41-45,Very Positive,83%,887
 1230,Mare Nostrum,Very Positive,89%,149
 1250,Killing Floor,Overwhelmingly Positive,96%,"31,344"
-960,Team Fortress 2: Meet the Heavy,None,None,None
+960,Team Fortress 2: Meet the Heavy,0,0,0
 961,Red Orchestra June 07 New Content Trailer,Very Positive,83%,887
 963,TrackMania United Webisode 1: Coppers,Very Positive,94%,813
 964,TrackMania United Webisode 2: Manialinks,Very Positive,94%,813
 965,TrackMania United Webisode 3: Maniazones,Very Positive,94%,813
 966,TrackMania United Webisode 4: Singleplayer,Very Positive,94%,813
 967,TrackMania United Webisode 5: Multiplayer,Very Positive,94%,813
-968,Sam & Max 101: Culture Shock Trailer,None,None,None
+968,Sam & Max 101: Culture Shock Trailer,0,0,0
 974,Lost Planet: Extreme Condition Trailer,Mostly Positive,72%,529
 977,ThreadSpace: Hyperbol Trailer,Positive,91%,12
 982,Gish Trailer,Mostly Positive,71%,103
-983,Call of Juarez Trailer,None,None,None
-984,Bioshock Trailer,None,None,None
-985,Team Fortress 2: Meet The Soldier,None,None,None
+983,Call of Juarez Trailer,0,0,0
+984,Bioshock Trailer,0,0,0
+985,Team Fortress 2: Meet The Soldier,0,0,0
 986,Race07 Trailer,Very Positive,86%,756
-987,Team Fortress 2: Meet The Engineer,None,None,None
-992,Company of Heroes: Opposing Fronts,None,None,None
-994,Team Fortress 2: Meet the Heavy (Russian),None,None,None
-997,Team Fortress 2: Meet the Demoman,None,None,None
+987,Team Fortress 2: Meet The Engineer,0,0,0
+992,Company of Heroes: Opposing Fronts,0,0,0
+994,Team Fortress 2: Meet the Heavy (Russian),0,0,0
+997,Team Fortress 2: Meet the Demoman,0,0,0
 998,Call of Duty 4: Modern Warfare Trailer,Very Positive,90%,"7,209"
 999,Painkiller Overdose Trailer,Mostly Positive,74%,398
 907,Red Orchestra Trailer,Very Positive,83%,887
 908,Shadowgrounds Trailer,Very Positive,80%,905
 909,Sin Episodes: Emergence Trailer,Very Positive,85%,243
-912,Half-Life 2: Episode One Launch Teaser 1,None,None,None
-913,Half-Life 2: Episode One Launch Teaser 2,None,None,None
-914,Half-Life 2: Episode One Launch Teaser 3,None,None,None
-915,Half-Life 2: Episode One Launch Teaser 4,None,None,None
-916,Half-Life 2: Episode Two Trailer,None,None,None
-917,Day of Defeat: Jagd Trailer,None,None,None
-918,Day of Defeat: Colmar Trailer,None,None,None
-922,Portal Trailer,None,None,None
-923,Team Fortress 2 Trailer,None,None,None
+912,Half-Life 2: Episode One Launch Teaser 1,0,0,0
+913,Half-Life 2: Episode One Launch Teaser 2,0,0,0
+914,Half-Life 2: Episode One Launch Teaser 3,0,0,0
+915,Half-Life 2: Episode One Launch Teaser 4,0,0,0
+916,Half-Life 2: Episode Two Trailer,0,0,0
+917,Day of Defeat: Jagd Trailer,0,0,0
+918,Day of Defeat: Colmar Trailer,0,0,0
+922,Portal Trailer,0,0,0
+923,Team Fortress 2 Trailer,0,0,0
 924,Red Orchestra Infantry Tutorial,Very Positive,83%,887
 925,Red Orchestra Vehicle Tutorial,Very Positive,83%,887
 926,Red Orchestra Lyes Krovy Trailer,Very Positive,83%,887
-929,Uplink Trailer,None,None,None
-930,Half-Life 2: Episode Two Trailer 2,None,None,None
-931,Team Fortress 2 Trailer 2,None,None,None
-932,Half-Life 2: Episode Two Gameplay Movie 1,None,None,None
-933,Half-Life 2: Episode Two Gameplay Movie 2,None,None,None
-934,Half-Life 2: Episode Two Gameplay Movie 3,None,None,None
-936,Half-Life 2: Episode Two Gameplay Movie 4,None,None,None
-937,Half-Life 2: Episode Two Gameplay Movie 5,None,None,None
+929,Uplink Trailer,0,0,0
+930,Half-Life 2: Episode Two Trailer 2,0,0,0
+931,Team Fortress 2 Trailer 2,0,0,0
+932,Half-Life 2: Episode Two Gameplay Movie 1,0,0,0
+933,Half-Life 2: Episode Two Gameplay Movie 2,0,0,0
+934,Half-Life 2: Episode Two Gameplay Movie 3,0,0,0
+936,Half-Life 2: Episode Two Gameplay Movie 4,0,0,0
+937,Half-Life 2: Episode Two Gameplay Movie 5,0,0,0
 941,Red Orchestra Fall Update Trailer,Very Positive,83%,887
 942,Heroes of Annihilated Empires Trailer,Very Positive,91%,181
 945,X3: Reunion 2.0 Trailer,Mostly Positive,73%,283
@@ -2917,10 +2917,10 @@ AppID,App Name,All Review,All Percent,All People
 956,Project: Snowblind Trailer,Mostly Positive,73%,186
 630,Alien Swarm,Very Positive,94%,"18,171"
 659,Portal 2 - Pre-order,Overwhelmingly Positive,98%,"99,136"
-901,Day of Defeat: Prelude to Victory,None,None,None
+901,Day of Defeat: Prelude to Victory,0,0,0
 902,Dangerous Waters Trailer,Mostly Positive,77%,156
-904,Half-Life 2 Trailer,None,None,None
-905,Half-Life 2: Episode One Trailer,None,None,None
+904,Half-Life 2 Trailer,0,0,0
+905,Half-Life 2: Episode One Trailer,0,0,0
 219,Half-Life 2: Demo,Overwhelmingly Positive,96%,"48,330"
 220,Half-Life 2,Overwhelmingly Positive,96%,"48,330"
 240,Counter-Strike: Source,Overwhelmingly Positive,95%,"43,017"
@@ -6733,7 +6733,7 @@ AppID,App Name,All Review,All Percent,All People
 787840,Blacksmith,Positive,81%,11
 787910,Ragnir Maypul,Positive,100%,13
 787970,miraclr - Divine Dating Sim,Positive,83%,18
-788010,Carried Away: Winter Sports,None,None,None
+788010,Carried Away: Winter Sports,0,0,0
 787190,TheLooppy,Positive,81%,43
 787220,Annotation of Love,Mostly Positive,79%,67
 787260,Universe Balancing Bureau,Positive,100%,14
@@ -7579,7 +7579,7 @@ AppID,App Name,All Review,All Percent,All People
 677300,Ghosts of Miami,Positive,100%,16
 677330,Theseus,Positive,80%,25
 677370,SMITE  - Texture Pack,Mostly Positive,73%,153
-677380,Disco Destruction,None,None,None
+677380,Disco Destruction,0,0,0
 677450,Medieval Shopkeeper Simulator,Mostly Positive,78%,78
 677480,Outpost Zero,Mostly Positive,70%,260
 676710,Simulator gas station,Mostly Positive,75%,12
@@ -8207,7 +8207,7 @@ AppID,App Name,All Review,All Percent,All People
 740210,"Sorry, James Demo",Mostly Positive,79%,372
 740230,Just Ski,Positive,85%,40
 740250,Neos VR,Positive,93%,31
-740260,Crimson Imprint plus -Nonexistent Christmas-,Very Positive,91%,"1,277"
+740260,Crimson Imprint plus -0xistent Christmas-,Very Positive,91%,"1,277"
 740290,Irony Of Nightmare,Very Positive,85%,178
 739690,Now Man Flies,Positive,83%,12
 739260,Golden Hornet,Very Positive,94%,125
@@ -8780,7 +8780,7 @@ AppID,App Name,All Review,All Percent,All People
 604070,OMSI 2 Add-On Luzern - Linie 24,Mostly Negative,37%,40
 604080,Arcane Raise - Aurora Novus,Mostly Negative,33%,68
 604140,Broccoli Bob,Mostly Positive,73%,23
-604190,Storm Riders,None,None,None
+604190,Storm Riders,0,0,0
 604240,Shotgun Farmers,Very Positive,87%,416
 603330,Blasted Road Terror,Positive,91%,47
 603350,Don't cut your hand,Very Positive,82%,135
@@ -9433,7 +9433,7 @@ AppID,App Name,All Review,All Percent,All People
 824270,KovaaK's FPS Aim Trainer,Very Positive,92%,116
 824350,Revoke Demo,Mostly Positive,76%,17
 823830,Frightened Beetles,Very Positive,91%,179
-823920,Kawaii Rainbow Portal,None,None,9
+823920,Kawaii Rainbow Portal,0,0,9
 824070,Objects in Space,Mostly Positive,79%,145
 823370,Lucky VS Aliens,Mostly Positive,70%,10
 823390,The Big Three,Positive,91%,23
@@ -10507,7 +10507,7 @@ AppID,App Name,All Review,All Percent,All People
 446330,Guns of Infinity,Very Positive,96%,57
 446340,Guns of Infinity Demo,Very Positive,96%,57
 446380,Sophie's Curse,Very Positive,86%,282
-446460,Highland Warriors,None,None,9
+446460,Highland Warriors,0,0,9
 446480,New York Bus Simulator,Mostly Negative,25%,12
 446490,Rail Cargo Simulator,Mostly Negative,35%,14
 445680,NEKOPARA Vol. 2 - Theme Song,Very Positive,98%,56
@@ -10629,7 +10629,7 @@ AppID,App Name,All Review,All Percent,All People
 440650,Niche - a genetics survival game,Very Positive,88%,"1,725"
 440690,Mesel,Very Positive,80%,52
 440730,Survival Zombies The Inverted Evolution,Mixed,57%,649
-440750,Story of a Cube,None,None,9
+440750,Story of a Cube,0,0,9
 440760,Cube Destroyer,Very Positive,84%,976
 440770,Drawn Story,Mostly Negative,30%,13
 440810,1943 Megami Strike,Mostly Negative,32%,59
@@ -11630,7 +11630,7 @@ AppID,App Name,All Review,All Percent,All People
 496910,DrumKit VR - Play drum kit in the world of VR,Mostly Negative,37%,16
 496930,Sumeru,Mostly Positive,79%,109
 496950,The Slingshot VR,Mostly Negative,33%,15
-496980,Cosmic Cavern 3671　　宇宙最大の地底最大の作戦,None,None,9
+496980,Cosmic Cavern 3671　　宇宙最大の地底最大の作戦,0,0,9
 496990,Ghost Sweeper,Mostly Positive,76%,13
 497080,Construct: Escape the System,Positive,82%,40
 497090,Amihailu in Dreamland,Mostly Positive,75%,24
@@ -12057,7 +12057,7 @@ AppID,App Name,All Review,All Percent,All People
 548350,One Sole Purpose,Negative,9%,11
 548360,RunningJoe,Mostly Positive,75%,12
 548430,Deep Rock Galactic,Very Positive,92%,"6,324"
-548450,Foreveracers,None,None,9
+548450,Foreveracers,0,0,9
 548480,NightZ,Mostly Negative,26%,86
 548500,Payroll,Positive,82%,35
 548560,Manastorm,Mostly Positive,71%,63
@@ -13374,7 +13374,7 @@ AppID,App Name,All Review,All Percent,All People
 414670,Nameless will heal your heart ~Lance~,Positive,100%,10
 414700,Outlast 2,Very Positive,87%,"9,700"
 414720,Astrox: Hostile Space Excavation,Very Positive,85%,320
-414780,Knight Squad - Extra Chivalrous,None,None,9
+414780,Knight Squad - Extra Chivalrous,0,0,9
 414870,Super Mega Baseball 2,Very Positive,82%,386
 414920,Corgi Warlock,Mostly Positive,76%,205
 414190,Junk Jack,Very Positive,80%,279
@@ -14190,7 +14190,7 @@ AppID,App Name,All Review,All Percent,All People
 384300,CPUCores :: Maximize Your FPS,Mostly Positive,72%,"7,684"
 384310,Dead In Bermuda,Mostly Positive,73%,203
 384320,Handball 16,Mostly Negative,29%,27
-384330,PolyRace,None,None,9
+384330,PolyRace,0,0,9
 384360,Fingered,Mostly Positive,75%,669
 384420,Creature Factory 2,Mostly Negative,38%,13
 383930,Doorways: Holy Mountains of Flesh,Very Positive,84%,75
@@ -14704,7 +14704,7 @@ AppID,App Name,All Review,All Percent,All People
 365360,Battle Brothers,Very Positive,87%,"4,978"
 365380,Battle Brothers - Soundtrack,Positive,90%,11
 365420,Apollo4x,Mostly Negative,30%,20
-365430,Everything is Black and White,None,None,9
+365430,Everything is Black and White,0,0,9
 365450,Hacknet,Very Positive,92%,"8,147"
 365500,quadrant,Positive,88%,27
 365580,Beeswing,Positive,94%,34
@@ -15038,7 +15038,7 @@ AppID,App Name,All Review,All Percent,All People
 573250,BAFL Demo,Mostly Positive,78%,14
 573270,Alcatraz: VR Escape Room,Positive,85%,27
 572220,MageQuit,Mostly Positive,74%,27
-572240,Snake 3D Adventures,None,None,9
+572240,Snake 3D Adventures,0,0,9
 572300,Nyheim,Mostly Positive,71%,57
 572330,The Fan,Mixed,68%,29
 572410,Steel Division: Normandy 44,Mostly Positive,72%,"3,139"

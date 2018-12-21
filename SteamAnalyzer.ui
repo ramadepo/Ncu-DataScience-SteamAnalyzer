@@ -428,7 +428,7 @@
        </font>
       </property>
       <property name="text">
-       <string>Vedio Production</string>
+       <string>Video Production</string>
       </property>
      </widget>
      <widget class="QCheckBox" name="checkBox_sin_designandillustration">
@@ -1009,7 +1009,7 @@ p, li { white-space: pre-wrap; }
        </font>
       </property>
       <property name="text">
-       <string>Vedio Production</string>
+       <string>Video Production</string>
       </property>
      </widget>
      <widget class="QCheckBox" name="checkBox_mul_photoediting">

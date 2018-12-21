@@ -30,8 +30,8 @@ def get_review(html):
         if tmp != None:
             kind = 'need more'
             people.append(match_string('[0-9,]+', str(tmp.text)))
-            percent.append('None')
-            evaluation.append('None')
+            percent.append('0')
+            evaluation.append('0')
             result.append(tmp)
             break
         # have positive review
@@ -66,9 +66,9 @@ def get_review(html):
             result.append(tmp)
 
     if kind == 'no review':
-        review['All Review'] = 'None'
-        review['All Percent'] = 'None'
-        review['All People'] = 'None'
+        review['All Review'] = '0'
+        review['All Percent'] = '0'
+        review['All People'] = '0'
     else:
         length = len(result)
         review['All Review'] = evaluation[length-1]

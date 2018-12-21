@@ -28,16 +28,16 @@ class AppTypeManager(QObject):
                     qualification = False
                     break
             if qualification:
-                id = app_types[0]
+                appid = app_types[0]
                 # check the data is exist
-                support_list = self.appsupport[self.appsupport['AppID'] == id].values
+                support_list = self.appsupport[self.appsupport['AppID'] == appid].values
                 if len(support_list) != 0:
                     # check now is single or multiple tab and store corresponding data
                     if self.kind == 'sin':
                         if 'Online Multi-Player' not in support_list[0][2:]:
-                            apps.append(id)
+                            apps.append(appid)
                     elif self.kind == 'mul':
                         if 'Online Multi-Player' in support_list[0][2:]:
-                            apps.append(id)
+                            apps.append(appid)
         return apps
     
