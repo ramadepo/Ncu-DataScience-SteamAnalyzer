@@ -98,8 +98,8 @@
      <widget class="QPushButton" name="button_sin_prediction">
       <property name="geometry">
        <rect>
-        <x>990</x>
-        <y>140</y>
+        <x>670</x>
+        <y>290</y>
         <width>171</width>
         <height>71</height>
        </rect>
@@ -113,7 +113,7 @@
        </font>
       </property>
       <property name="text">
-       <string>Get Price !!!</string>
+       <string>Get Price</string>
       </property>
      </widget>
      <widget class="QCheckBox" name="checkBox_sin_action">
@@ -581,9 +581,9 @@
      <widget class="QProgressBar" name="progressBar_sin">
       <property name="geometry">
        <rect>
-        <x>630</x>
-        <y>290</y>
-        <width>551</width>
+        <x>640</x>
+        <y>390</y>
+        <width>531</width>
         <height>23</height>
        </rect>
       </property>
@@ -602,8 +602,8 @@
      <widget class="QLabel" name="label_sin_priceprediction">
       <property name="geometry">
        <rect>
-        <x>630</x>
-        <y>330</y>
+        <x>640</x>
+        <y>560</y>
         <width>161</width>
         <height>31</height>
        </rect>
@@ -623,8 +623,8 @@
      <widget class="QLabel" name="label_sin_price">
       <property name="geometry">
        <rect>
-        <x>810</x>
-        <y>330</y>
+        <x>820</x>
+        <y>560</y>
         <width>161</width>
         <height>31</height>
        </rect>
@@ -669,6 +669,69 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Here Is Log Window&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="button_sin_stop">
+      <property name="geometry">
+       <rect>
+        <x>970</x>
+        <y>290</y>
+        <width>171</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>75</weight>
+        <italic>true</italic>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>Stop</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_sin_totalpeoplenum">
+      <property name="geometry">
+       <rect>
+        <x>820</x>
+        <y>440</y>
+        <width>161</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>75</weight>
+        <italic>false</italic>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>0</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_sin_totalpeople">
+      <property name="geometry">
+       <rect>
+        <x>640</x>
+        <y>440</y>
+        <width>161</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>75</weight>
+        <italic>false</italic>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>Total People : </string>
       </property>
      </widget>
     </widget>
@@ -868,8 +931,8 @@ p, li { white-space: pre-wrap; }
      <widget class="QPushButton" name="button_mul_prediction">
       <property name="geometry">
        <rect>
-        <x>990</x>
-        <y>140</y>
+        <x>670</x>
+        <y>290</y>
         <width>171</width>
         <height>71</height>
        </rect>
@@ -883,7 +946,7 @@ p, li { white-space: pre-wrap; }
        </font>
       </property>
       <property name="text">
-       <string>Get Price !!!</string>
+       <string>Get Price</string>
       </property>
      </widget>
      <widget class="QCheckBox" name="checkBox_mul_education">
@@ -1183,9 +1246,9 @@ p, li { white-space: pre-wrap; }
      <widget class="QProgressBar" name="progressBar_mul">
       <property name="geometry">
        <rect>
-        <x>630</x>
-        <y>290</y>
-        <width>551</width>
+        <x>640</x>
+        <y>390</y>
+        <width>531</width>
         <height>23</height>
        </rect>
       </property>
@@ -1204,8 +1267,8 @@ p, li { white-space: pre-wrap; }
      <widget class="QLabel" name="label_mul_priceprediction">
       <property name="geometry">
        <rect>
-        <x>630</x>
-        <y>330</y>
+        <x>640</x>
+        <y>560</y>
         <width>161</width>
         <height>31</height>
        </rect>
@@ -1225,8 +1288,8 @@ p, li { white-space: pre-wrap; }
      <widget class="QLabel" name="label_mul_price">
       <property name="geometry">
        <rect>
-        <x>810</x>
-        <y>330</y>
+        <x>820</x>
+        <y>560</y>
         <width>161</width>
         <height>31</height>
        </rect>
@@ -1273,6 +1336,69 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
       </property>
      </widget>
+     <widget class="QLabel" name="label_mul_totalpeople">
+      <property name="geometry">
+       <rect>
+        <x>640</x>
+        <y>440</y>
+        <width>161</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>75</weight>
+        <italic>false</italic>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>Total People : </string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="button_mul_stop">
+      <property name="geometry">
+       <rect>
+        <x>970</x>
+        <y>290</y>
+        <width>171</width>
+        <height>71</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>75</weight>
+        <italic>true</italic>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>Stop</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_mul_totalpeoplenum">
+      <property name="geometry">
+       <rect>
+        <x>820</x>
+        <y>440</y>
+        <width>161</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>75</weight>
+        <italic>false</italic>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>0</string>
+      </property>
+     </widget>
     </widget>
     <widget class="QWidget" name="tab_sin_top">
      <attribute name="title">
@@ -1301,8 +1427,8 @@ p, li { white-space: pre-wrap; }
    <slot>get_price_sin()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>1065</x>
-     <y>211</y>
+     <x>842</x>
+     <y>321</y>
     </hint>
     <hint type="destinationlabel">
      <x>1228</x>
@@ -1317,8 +1443,8 @@ p, li { white-space: pre-wrap; }
    <slot>get_price_mul()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>1080</x>
-     <y>207</y>
+     <x>842</x>
+     <y>321</y>
     </hint>
     <hint type="destinationlabel">
      <x>1216</x>
@@ -1326,9 +1452,43 @@ p, li { white-space: pre-wrap; }
     </hint>
    </hints>
   </connection>
+  <connection>
+   <sender>button_sin_stop</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>stop_price_sin()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>1056</x>
+     <y>358</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1220</x>
+     <y>367</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>button_mul_stop</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>stop_price_mul()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>1067</x>
+     <y>357</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1217</x>
+     <y>362</y>
+    </hint>
+   </hints>
+  </connection>
  </connections>
  <slots>
   <slot>get_price_sin()</slot>
   <slot>get_price_mul()</slot>
+  <slot>stop_price_sin()</slot>
+  <slot>stop_price_mul()</slot>
  </slots>
 </ui>

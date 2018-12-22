@@ -19,9 +19,13 @@ class Main(QMainWindow, Steam_Analyzer_window.Ui_MainWindow):
     # button clicked event in single prediction tab
     def get_price_sin(self):
         self.single_manager.work()
+    def stop_price_sin(self):
+        self.single_manager.done("Manually stop the program.")
     # button clicked event in multiple prediction tab
     def get_price_mul(self):
         self.multi_manager.work()
+    def stop_price_mul(self):
+        self.multi_manager.done("Manually stop the program.")
 
 # program executed entry
 if __name__ == "__main__":

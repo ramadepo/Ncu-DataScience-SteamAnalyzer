@@ -4,6 +4,8 @@ from PyQt5.QtCore import pyqtSignal
 from PyQt5.QtWidgets import QCheckBox
 from PyQt5.QtWidgets import QWidget
 from PyQt5.QtWidgets import QTextBrowser
+from PyQt5.QtWidgets import QProgressBar
+from PyQt5.QtWidgets import QLabel
 
 from Steam_Analyzer_Type_Manager import AppTypeManager
 from Steam_Analyzer_AppID_Manager import AppIDManager
@@ -14,7 +16,7 @@ from Steam_Analyzer_Thread import PlotThread, DataFilteringThread
 class PredictionManager():
     def __init__(self, tab_widget, kind):
         self.tab_widget = tab_widget
-        self.duration = 30
+        self.duration = 5
         self.now_date = '20181215'
         # kind is sin or mul
         self.kind = kind
@@ -44,12 +46,20 @@ class PredictionManager():
     # predict the price of game that with types on UI today from last 30 days evaluation by linear regression
     def work(self):
         self.pre_work()
+        self.init_plot_thread()
+        self.init_data_filtering_thread()
+        
+        
+    def init_plot_thread(self):
         self.plot_thread = PlotThread(self.plot_manager, self.tags)
+        self.plot_thread.start()
+
+    def init_data_filtering_thread(self):
         self.data_filtering_thread = DataFilteringThread(self.plot_manager, self.appid_manager, self.apps, self.duration)
         self.data_filtering_thread.done.connect(self.done)
-        self.plot_thread.start()
+        self.data_filtering_thread.progress.connect(self.update_progress)
+        self.data_filtering_thread.total_people_num.connect(self.update_people)
         self.data_filtering_thread.start()
-
         
     # get tags from UI
     def get_all_tags(self):
@@ -65,8 +75,17 @@ class PredictionManager():
         self.log_window.append(log)
 
     # receive the data filtering complete signal and turn off the thread
-    def done(self):
+    def done(self, s1, s2=''):
         self.plot_thread.stop()
         self.data_filtering_thread.stop()
-        self.add_log('Data filtering complete.')
-        self.add_log('Start to execute linear regression model.')
+        self.add_log(s1)
+        self.add_log(s2)
+
+    # update progress bar value
+    def update_progress(self, value):
+        progress_bar = self.tab_widget.findChild(QProgressBar, 'progressBar_' + self.kind)
+        progress_bar.setValue(value)
+
+    def update_people(self, num):
+        people_label = self.tab_widget.findChild(QLabel, 'label_' + self.kind + '_totalpeoplenum')
+        people_label.setText(str(num))
