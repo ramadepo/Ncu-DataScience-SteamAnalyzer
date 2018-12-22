@@ -48,10 +48,11 @@ class DataFilteringThread(QThread):
                 for i in range(self.duration):
                     total_price[i] += review[i] * people[i] * price
                     total_people[i] += people[i]
-                self.plot_manager.set_x_y(range(1,self.duration+1), total_price)
                 time_count += 1
                 self.progress.emit(int(time_count * 100 /len(self.apps)))
                 self.total_people_num.emit(float(np.sum(total_people)/self.duration))
+                if time_count%100 == 0:
+                    self.plot_manager.set_x_y(range(1,self.duration+1), total_price)
 
 
             
