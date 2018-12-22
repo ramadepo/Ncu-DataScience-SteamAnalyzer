@@ -23,10 +23,21 @@ def match_string(pattern, string):
 
 def get_price(html):
     price = '0'
-    price_areas = html.find_all('div', {'class': 'game_purchase_price price'})
-    the_price =  match_string('[0-9,]+', price_areas[0].text)
+    the_price = ''
+    game_area_purchase = html.find_all('div', {'id': 'game_area_purchase'})
+    price_areas = game_area_purchase[0].find_all('div', {'class': 'game_purchase_price price'})
+    if len(price_areas) != 0:
+        the_price =  match_string('[0-9,]+', price_areas[0].text)
+
     if the_price != '':
         price = the_price.replace(',', '')
+    else:
+        # maybe it's on discount, still crawl the origin price
+        price_areas = html.find_all('div', {'class': 'discount_original_price'})
+        if len(price_areas) != 0:
+            the_price =  match_string('[0-9,]+', price_areas[0].text)
+            if the_price != '':
+                price = the_price.replace(',', '')
     return price
 
 with open(filename + '.csv', newline='') as csv_file:
@@ -44,7 +55,7 @@ with open(filename + '.csv', newline='') as csv_file:
 
             try:     
                 html = get_html('https://store.steampowered.com/app/' + appid)
-                #html = get_html('https://store.steampowered.com/app/698780')
+                #html = get_html('https://store.steampowered.com/app/602520')
                 title = get_title(html)
                 if title[len(title)-8:len(title)] == "on Steam":
                     price = get_price(html)
@@ -52,7 +63,8 @@ with open(filename + '.csv', newline='') as csv_file:
                     print(cc, appid, name, price)
                 else:
                     print(cc, "+++++", title, "-----", name, "=====", appid)
-            except:
+            except Exception as e:
+                #print(e)
                 print(cc,"not exist", appid, ":", name)
             time.sleep(0.01)
             cc +=1

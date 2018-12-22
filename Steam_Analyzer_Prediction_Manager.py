@@ -16,7 +16,7 @@ from Steam_Analyzer_Thread import PlotThread, DataFilteringThread
 class PredictionManager():
     def __init__(self, tab_widget, kind):
         self.tab_widget = tab_widget
-        self.duration = 5
+        self.duration = 30
         self.now_date = '20181215'
         # kind is sin or mul
         self.kind = kind
