@@ -99,7 +99,7 @@ with open(filename + '.csv', newline='') as csv_file:
                 title = get_title(html)
                 if title[len(title)-8:len(title)] == "on Steam":
                     review = get_review(html)
-                    the_writer.writerow([appid, name, review['All Review'], review['All Percent'], review['All People']])
+                    the_writer.writerow([appid, review['All Review'], review['All Percent'], review['All People']])
                     print(cc, appid, name, review['All Review'], review['All Percent'], review['All People'])
                 else:
                     print(cc, "+++++", title, "-----", name, "=====", appid)
