@@ -49,6 +49,7 @@ class DataFilteringThread(QThread):
                     total_price[i] += review[i] * people[i] * price
                     total_people[i] += people[i]
                 time_count += 1
+                # update UI
                 self.progress.emit(int(time_count * 100 /len(self.apps)))
                 self.total_people_num.emit(float(np.sum(total_people)/self.duration))
                 if time_count%100 == 0:

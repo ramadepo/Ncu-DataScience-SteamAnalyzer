@@ -1,15 +1,14 @@
 import datetime
 import pandas as pd
 
+# convertion between date object and string object
 def str2date(string):
     return datetime.datetime.strptime(string, '%Y%m%d')
-
 def date2str(date):
     return datetime.datetime.strftime(date, '%Y%m%d')
-
 def num2days(num):
     return datetime.timedelta(days=num)
-
+    
 class AppIDManager():
     def __init__(self, now_date, duration):
         # set target day
@@ -28,7 +27,7 @@ class AppIDManager():
             review_file = pd.read_csv('data/app_review_result/' + date_str + '.csv')
             self.review_files.append(review_file)
     
-    # get last 30 days review by id, return a 30 length array, if data not exist, array will store 0
+    # get last self.duration days review by id, return a self.duration length array, if data not exist, array will store 0
     def get_reviews(self, appid):
         reviews = []
         for i in range(self.duration):
@@ -40,7 +39,7 @@ class AppIDManager():
                 reviews.append(0.0)
         return reviews
 
-    # get last 30 days price by id, return price, if data not exist, will return 0
+    # get last self.duration days price by id, return price, if data not exist, will return 0
     def get_price(self, appid):
         price_list = self.price_file[self.price_file['AppID'] == appid].values
         if len(price_list) != 0:
@@ -49,7 +48,7 @@ class AppIDManager():
             price = 0
         return price
 
-    # get last 30 days people by id, return a 30 length array, if data not exist, array will store 0
+    # get last self.duration days people by id, return a self.duration length array, if data not exist, array will store 0
     def get_people(self, appid):
         people = []
         for i in range(self.duration):

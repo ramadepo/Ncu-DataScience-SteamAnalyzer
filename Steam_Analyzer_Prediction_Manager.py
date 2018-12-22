@@ -49,11 +49,10 @@ class PredictionManager():
         self.init_plot_thread()
         self.init_data_filtering_thread()
         
-        
+    # set initial thread
     def init_plot_thread(self):
         self.plot_thread = PlotThread(self.plot_manager, self.tags)
         self.plot_thread.start()
-
     def init_data_filtering_thread(self):
         self.data_filtering_thread = DataFilteringThread(self.plot_manager, self.appid_manager, self.apps, self.duration)
         self.data_filtering_thread.done.connect(self.done)
@@ -81,11 +80,10 @@ class PredictionManager():
         self.add_log(s1)
         self.add_log(s2)
 
-    # update progress bar value
+    # update UI
     def update_progress(self, value):
         progress_bar = self.tab_widget.findChild(QProgressBar, 'progressBar_' + self.kind)
         progress_bar.setValue(value)
-
     def update_people(self, num):
         people_label = self.tab_widget.findChild(QLabel, 'label_' + self.kind + '_totalpeoplenum')
         people_label.setText(str(num))
