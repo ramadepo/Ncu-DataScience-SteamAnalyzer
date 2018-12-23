@@ -5,7 +5,7 @@ import csv
 import time
 
 filename = "applist_for_review_20181031"
-result_filename = '20181221'
+result_filename = '20181222'
 
 def match_string(pattern, string):
     return re.search(pattern, string).group(0)
