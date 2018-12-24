@@ -80,7 +80,7 @@
         <x>10</x>
         <y>290</y>
         <width>600</width>
-        <height>600</height>
+        <height>591</height>
        </rect>
       </property>
       <property name="font">
@@ -603,7 +603,7 @@
       <property name="geometry">
        <rect>
         <x>640</x>
-        <y>560</y>
+        <y>500</y>
         <width>161</width>
         <height>31</height>
        </rect>
@@ -624,7 +624,7 @@
       <property name="geometry">
        <rect>
         <x>820</x>
-        <y>560</y>
+        <y>500</y>
         <width>161</width>
         <height>31</height>
        </rect>
@@ -645,7 +645,7 @@
       <property name="geometry">
        <rect>
         <x>630</x>
-        <y>691</y>
+        <y>680</y>
         <width>551</width>
         <height>201</height>
        </rect>
@@ -734,6 +734,48 @@ p, li { white-space: pre-wrap; }
        <string>Total People : </string>
       </property>
      </widget>
+     <widget class="QLabel" name="label_sin_mse">
+      <property name="geometry">
+       <rect>
+        <x>640</x>
+        <y>560</y>
+        <width>161</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>75</weight>
+        <italic>false</italic>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>MSE :</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_sin_msenum">
+      <property name="geometry">
+       <rect>
+        <x>820</x>
+        <y>560</y>
+        <width>161</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>75</weight>
+        <italic>false</italic>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>0</string>
+      </property>
+     </widget>
     </widget>
     <widget class="QWidget" name="tab_mul_price">
      <attribute name="title">
@@ -745,7 +787,7 @@ p, li { white-space: pre-wrap; }
         <x>10</x>
         <y>290</y>
         <width>600</width>
-        <height>600</height>
+        <height>591</height>
        </rect>
       </property>
       <property name="font">
@@ -1268,7 +1310,7 @@ p, li { white-space: pre-wrap; }
       <property name="geometry">
        <rect>
         <x>640</x>
-        <y>560</y>
+        <y>500</y>
         <width>161</width>
         <height>31</height>
        </rect>
@@ -1289,7 +1331,7 @@ p, li { white-space: pre-wrap; }
       <property name="geometry">
        <rect>
         <x>820</x>
-        <y>560</y>
+        <y>500</y>
         <width>161</width>
         <height>31</height>
        </rect>
@@ -1310,7 +1352,7 @@ p, li { white-space: pre-wrap; }
       <property name="geometry">
        <rect>
         <x>630</x>
-        <y>690</y>
+        <y>680</y>
         <width>551</width>
         <height>201</height>
        </rect>
@@ -1397,6 +1439,48 @@ p, li { white-space: pre-wrap; }
       </property>
       <property name="text">
        <string>0</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_mul_msenum">
+      <property name="geometry">
+       <rect>
+        <x>820</x>
+        <y>560</y>
+        <width>161</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>75</weight>
+        <italic>false</italic>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>0</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_mul_mse">
+      <property name="geometry">
+       <rect>
+        <x>640</x>
+        <y>560</y>
+        <width>161</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+        <weight>75</weight>
+        <italic>false</italic>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>MSE :</string>
       </property>
      </widget>
     </widget>

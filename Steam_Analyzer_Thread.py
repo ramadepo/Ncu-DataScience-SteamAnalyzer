@@ -21,9 +21,11 @@ class PlotThread(QThread):
         self.wait()
 
 class DataFilteringThread(QThread):
-    done = pyqtSignal(str, str)
+    log = pyqtSignal(str)
+    done = pyqtSignal()
     progress = pyqtSignal(int)
     total_people_num = pyqtSignal(float)
+    total_price_ok = pyqtSignal(list)
     def __init__(self, plot_manager, appid_manager, apps, duration):
         QThread.__init__(self)
         self.plot_manager = plot_manager
@@ -59,7 +61,8 @@ class DataFilteringThread(QThread):
             
         # check data is exist
         if total_people[0] == 0:
-            self.done.emit('No this kind of data exist, please select the type again.', '')
+            self.log.emit('No this kind of data exist, please select the type again.\n')
+            self.done.emit()
         else:
             # calculate total average price
             for i in range(self.duration):
@@ -67,7 +70,9 @@ class DataFilteringThread(QThread):
             self.plot_manager.set_x_y(range(1,self.duration+1), total_price)
             # send the signal of data filtering complete
             if self.active:
-                self.done.emit('Data filtering complete.', '')
+                self.log.emit('Data filtering complete.\n')
+                self.done.emit()
+                self.total_price_ok.emit(total_price)
 
     def stop(self):
         self.active = False

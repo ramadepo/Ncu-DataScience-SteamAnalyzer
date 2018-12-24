@@ -16,8 +16,8 @@ from Steam_Analyzer_Thread import PlotThread, DataFilteringThread
 class PredictionManager():
     def __init__(self, tab_widget, kind):
         self.tab_widget = tab_widget
-        self.duration = 30
-        self.now_date = '20181215'
+        self.duration = 50
+        self.now_date = '20181222'
         # kind is sin or mul
         self.kind = kind
         # manager for game type
@@ -26,12 +26,11 @@ class PredictionManager():
         self.appid_manager = AppIDManager(self.now_date, self.duration)
         # manager for plotting
         self.plot_manager = PlotManager(self.tab_widget.findChild(QWidget, 'plot_' + self.kind + '_prediction'), 6, 6, 100)
-        # prediction calculator
-        self.calculator = Calculator()
         # log window object
         self.log_window = self.tab_widget.findChild(QTextBrowser, 'textBrowser_' + self.kind + '_log')
         # set slot and signal pair
         self.app_type_manager.log.connect(self.add_log)
+        self.started = False
 
         self.tags = []
         self.apps = []
@@ -45,20 +44,30 @@ class PredictionManager():
 
     # predict the price of game that with types on UI today from last 30 days evaluation by linear regression
     def work(self):
+        self.started = True
         self.pre_work()
-        self.init_plot_thread()
-        self.init_data_filtering_thread()
+        self.set_plot_thread()
+        self.set_data_filtering_thread()
         
     # set initial thread
-    def init_plot_thread(self):
+    def set_plot_thread(self):
         self.plot_thread = PlotThread(self.plot_manager, self.tags)
         self.plot_thread.start()
-    def init_data_filtering_thread(self):
+    def set_data_filtering_thread(self):
         self.data_filtering_thread = DataFilteringThread(self.plot_manager, self.appid_manager, self.apps, self.duration)
         self.data_filtering_thread.done.connect(self.done)
+        self.data_filtering_thread.log.connect(self.add_log)
         self.data_filtering_thread.progress.connect(self.update_progress)
         self.data_filtering_thread.total_people_num.connect(self.update_people)
+        self.data_filtering_thread.total_price_ok.connect(self.set_calculator)
         self.data_filtering_thread.start()
+
+    # data filtering done and set calculator with total price to start predict
+    def set_calculator(self, total_price):
+        self.calculator = Calculator(self.plot_manager, total_price, self.duration)
+        self.calculator.prediction_ok.connect(self.update_price_mse)
+        self.calculator.log.connect(self.add_log)
+        self.calculator.calculate()
         
     # get tags from UI
     def get_all_tags(self):
@@ -74,16 +83,22 @@ class PredictionManager():
         self.log_window.append(log)
 
     # receive the data filtering complete signal and turn off the thread
-    def done(self, s1, s2=''):
+    def done(self):
         self.plot_thread.stop()
         self.data_filtering_thread.stop()
-        self.add_log(s1)
-        self.add_log(s2)
+        self.started = False
 
     # update UI
     def update_progress(self, value):
         progress_bar = self.tab_widget.findChild(QProgressBar, 'progressBar_' + self.kind)
         progress_bar.setValue(value)
-    def update_people(self, num):
+    def update_people(self, value):
         people_label = self.tab_widget.findChild(QLabel, 'label_' + self.kind + '_totalpeoplenum')
-        people_label.setText(str(num))
+        people_label.setText(str(value))
+    def update_price_mse(self, price, mse):
+        price_label = self.tab_widget.findChild(QLabel, 'label_' + self.kind + '_price')
+        price_label.setText(str(price))
+        mse_label = self.tab_widget.findChild(QLabel, 'label_' + self.kind + '_msenum')
+        mse_label.setText(str(mse))
+
+    
